@@ -38,6 +38,7 @@ export function Page({
 
   const contentClassName = classNames(
     styles.Content,
+    !hasHeaderContent && styles.ContentSpaced,
     divider && hasHeaderContent && styles.divider,
   );
 
