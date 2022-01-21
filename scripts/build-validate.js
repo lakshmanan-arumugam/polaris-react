@@ -42,8 +42,8 @@ function validateStandardBuild() {
 
   // Standard build css contains namespaced classes
   const cssContent = fs.readFileSync('./build/esm/styles.css', 'utf-8');
-  assert.ok(cssContent.includes('.Polaris-Avatar {'));
-  assert.ok(cssContent.includes('.Polaris-BulkActions__BulkActionButton {'));
+  assert.ok(cssContent.includes('.super-ops-Avatar {'));
+  assert.ok(cssContent.includes('.super-ops-BulkActions__BulkActionButton {'));
 }
 
 function validateEsNextBuild() {
@@ -57,7 +57,7 @@ function validateEsNextBuild() {
     './build/esnext/components/Avatar/Avatar.css',
     'utf-8',
   );
-  assert.ok(cssContent.includes('.Polaris-Avatar_z763p {'));
+  assert.ok(cssContent.includes('.super-ops-Avatar_z763p {'));
 
   const jsContent = fs.readFileSync(
     './build/esnext/components/Avatar/Avatar.scss.esnext',
@@ -65,8 +65,8 @@ function validateEsNextBuild() {
   );
 
   assert.ok(jsContent.includes("import './Avatar.css';"));
-  assert.ok(jsContent.includes('"Avatar": "Polaris-Avatar_z763p"'));
-  assert.ok(jsContent.includes('"hidden": "Polaris-Avatar--hidden_riqie"'));
+  assert.ok(jsContent.includes('"Avatar": "super-ops-Avatar_z763p"'));
+  assert.ok(jsContent.includes('"hidden": "super-ops-Avatar--hidden_riqie"'));
 }
 
 function validateSassPublicApi() {
