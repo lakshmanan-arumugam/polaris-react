@@ -9,11 +9,12 @@ const postcssPlugins = require('../config/postcss-plugins');
 const enableDocs = !parseInt(process.env.STORYBOOK_DISABLE_DOCS || '0', 10);
 
 module.exports = {
-  stories: ['../playground/stories.tsx', '../src/components/**/*/README.md'],
+  stories: ['../src/components/**/*/README.md'],
   addons: [
     {name: '@storybook/addon-essentials', options: {docs: enableDocs}},
     '@storybook/addon-a11y',
     '@storybook/addon-contexts',
+    '@storybook/addon-docs'
   ],
   webpackFinal: (config) => {
     const isProduction = config.mode === 'production';

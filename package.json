@@ -17,7 +17,6 @@
     "build/",
     "!build/ts/**/*.tsbuildinfo",
     "!build/ts/**/tests/",
-    "!build/ts/**/playground/",
     "locales/"
   ],
   "sideEffects": [

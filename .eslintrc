@@ -90,7 +90,6 @@
       }
     },
     {
-      "files": ["playground/*.tsx"],
       "rules": {
         "react/prefer-stateless-function": "off",
         "@shopify/jsx-no-hardcoded-content": "off",
