@@ -1,0 +1,11 @@
+import './SkeletonDisplayText.css';
+
+var styles = {
+  "DisplayText": "super-ops-SkeletonDisplayText__DisplayText_1u0t8",
+  "sizeSmall": "super-ops-SkeletonDisplayText--sizeSmall_7647q",
+  "sizeMedium": "super-ops-SkeletonDisplayText--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-SkeletonDisplayText--sizeLarge_61dxo",
+  "sizeExtraLarge": "super-ops-SkeletonDisplayText--sizeExtraLarge_1akox"
+};
+
+export { styles as default };

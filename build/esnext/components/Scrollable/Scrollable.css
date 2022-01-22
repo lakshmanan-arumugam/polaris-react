@@ -1,0 +1,15 @@
+.super-ops-Scrollable_1ed9o { -webkit-overflow-scrolling: touch; position: relative; }
+
+.super-ops-Scrollable_1ed9o:focus { outline: 0.125rem solid var(--p-focused); outline-offset: 0.125rem; }
+
+.super-ops-Scrollable--horizontal_17qq4 { overflow-x: auto; }
+
+.super-ops-Scrollable--vertical_uiuuj { overflow-y: auto; }
+
+.super-ops-Scrollable--verticalHasScrolling_1n2r8 { overflow-y: scroll; }
+
+.super-ops-Scrollable--hasTopShadow_cgwp0 { box-shadow: inset 0 1.25rem 1.25rem -1.25rem var(--p-hint-from-direct-light); }
+
+.super-ops-Scrollable--hasBottomShadow_all2n { box-shadow: inset 0 -1.25rem 1.25rem -1.25rem var(--p-hint-from-direct-light); }
+
+.super-ops-Scrollable--hasTopShadow_cgwp0.super-ops-Scrollable--hasBottomShadow_all2n { box-shadow: inset 0 1.25rem 1.25rem -1.25rem var(--p-hint-from-direct-light), inset 0 -1.25rem 1.25rem -1.25rem var(--p-hint-from-direct-light); }

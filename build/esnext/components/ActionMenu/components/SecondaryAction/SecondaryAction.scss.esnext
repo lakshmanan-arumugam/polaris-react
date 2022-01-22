@@ -1,0 +1,7 @@
+import './SecondaryAction.css';
+
+var styles = {
+  "SecondaryAction": "super-ops-ActionMenu-SecondaryAction_1dl4i"
+};
+
+export { styles as default };

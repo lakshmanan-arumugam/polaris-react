@@ -1,0 +1,10 @@
+import './Thumbnail.css';
+
+var styles = {
+  "Thumbnail": "super-ops-Thumbnail_15hj1",
+  "sizeSmall": "super-ops-Thumbnail--sizeSmall_7647q",
+  "sizeMedium": "super-ops-Thumbnail--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-Thumbnail--sizeLarge_61dxo"
+};
+
+export { styles as default };

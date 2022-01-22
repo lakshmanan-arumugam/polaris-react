@@ -1,0 +1,14 @@
+import './ColorPicker.css';
+
+var styles = {
+  "ColorPicker": "super-ops-ColorPicker_1ft7g",
+  "MainColor": "super-ops-ColorPicker__MainColor_1dlup",
+  "fullWidth": "super-ops-ColorPicker--fullWidth_zyvh4",
+  "Dragger": "super-ops-ColorPicker__Dragger_mz3rx",
+  "ColorLayer": "super-ops-ColorPicker__ColorLayer_1ouio",
+  "HuePicker": "super-ops-ColorPicker__HuePicker_xwdsx",
+  "AlphaPicker": "super-ops-ColorPicker__AlphaPicker_1fh74",
+  "Slidable": "super-ops-ColorPicker__Slidable_1fdsv"
+};
+
+export { styles as default };

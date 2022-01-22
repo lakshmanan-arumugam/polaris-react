@@ -1,0 +1,17 @@
+import './Dialog.css';
+
+var styles = {
+  "Container": "super-ops-Modal-Dialog__Container_13mbo",
+  "Dialog": "super-ops-Modal-Dialog_n3qgo",
+  "Modal": "super-ops-Modal-Dialog__Modal_2v9yc",
+  "limitHeight": "super-ops-Modal-Dialog--limitHeight_1hum8",
+  "sizeSmall": "super-ops-Modal-Dialog--sizeSmall_7647q",
+  "sizeLarge": "super-ops-Modal-Dialog--sizeLarge_61dxo",
+  "animateFadeUp": "super-ops-Modal-Dialog--animateFadeUp_1ok63",
+  "entering": "super-ops-Modal-Dialog--entering_dwhxg",
+  "exiting": "super-ops-Modal-Dialog--exiting_1brpc",
+  "exited": "super-ops-Modal-Dialog--exited_ijm9z",
+  "entered": "super-ops-Modal-Dialog--entered_17x8x"
+};
+
+export { styles as default };

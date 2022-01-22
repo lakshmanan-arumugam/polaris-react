@@ -1,0 +1,16 @@
+import './MappedAction.css';
+
+var styles = {
+  "ActionContainer": "super-ops-Autocomplete-MappedAction__ActionContainer_hk0rr",
+  "Action": "super-ops-Autocomplete-MappedAction__Action_r96cs",
+  "destructive": "super-ops-Autocomplete-MappedAction--destructive_zy6o5",
+  "selected": "super-ops-Autocomplete-MappedAction--selected_mijeo",
+  "disabled": "super-ops-Autocomplete-MappedAction--disabled_hcuh9",
+  "Prefix": "super-ops-Autocomplete-MappedAction__Prefix_10fbz",
+  "Suffix": "super-ops-Autocomplete-MappedAction__Suffix_10fbu",
+  "Content": "super-ops-Autocomplete-MappedAction__Content_xd1mk",
+  "Text": "super-ops-Autocomplete-MappedAction__Text_yj3uv",
+  "ContentWrap": "super-ops-Autocomplete-MappedAction__ContentWrap_7565q"
+};
+
+export { styles as default };

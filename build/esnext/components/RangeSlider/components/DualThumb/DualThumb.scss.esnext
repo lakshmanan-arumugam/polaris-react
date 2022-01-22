@@ -1,0 +1,18 @@
+import './DualThumb.css';
+
+var styles = {
+  "Wrapper": "super-ops-RangeSlider-DualThumb__Wrapper_mkrm3",
+  "TrackWrapper": "super-ops-RangeSlider-DualThumb__TrackWrapper_bilen",
+  "disabled": "super-ops-RangeSlider-DualThumb--disabled_hcuh9",
+  "Track": "super-ops-RangeSlider-DualThumb__Track_32wu4",
+  "error": "super-ops-RangeSlider-DualThumb--error_37uk1",
+  "Track--dashed": "super-ops-RangeSlider-DualThumb--trackDashed_8xr5k",
+  "Thumbs": "super-ops-RangeSlider-DualThumb__Thumbs_zormu",
+  "Prefix": "super-ops-RangeSlider-DualThumb__Prefix_10fbz",
+  "Suffix": "super-ops-RangeSlider-DualThumb__Suffix_10fbu",
+  "Output": "super-ops-RangeSlider-DualThumb__Output_sl6zf",
+  "OutputBubble": "super-ops-RangeSlider-DualThumb__OutputBubble_ji63m",
+  "OutputText": "super-ops-RangeSlider-DualThumb__OutputText_1y9bc"
+};
+
+export { styles as default };

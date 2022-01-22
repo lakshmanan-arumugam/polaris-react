@@ -1,0 +1,10 @@
+import './FooterHelp.css';
+
+var styles = {
+  "FooterHelp": "super-ops-FooterHelp_10cj9",
+  "Content": "super-ops-FooterHelp__Content_xd1mk",
+  "Icon": "super-ops-FooterHelp__Icon_yj27d",
+  "Text": "super-ops-FooterHelp__Text_yj3uv"
+};
+
+export { styles as default };

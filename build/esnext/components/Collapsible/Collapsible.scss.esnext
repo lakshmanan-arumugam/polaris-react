@@ -1,0 +1,9 @@
+import './Collapsible.css';
+
+var styles = {
+  "Collapsible": "super-ops-Collapsible_1dqql",
+  "isFullyClosed": "super-ops-Collapsible--isFullyClosed_dljrt",
+  "expandOnPrint": "super-ops-Collapsible--expandOnPrint_1fkoz"
+};
+
+export { styles as default };

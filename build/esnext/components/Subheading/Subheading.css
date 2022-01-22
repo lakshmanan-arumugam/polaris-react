@@ -1,0 +1,5 @@
+.super-ops-Subheading_syouu { font-size: 0.8125rem; font-weight: 600; line-height: 1rem; text-transform: uppercase; margin: 0; }
+
+@media (min-width: 40em) { .super-ops-Subheading_syouu { font-size: 0.75rem; } }
+
+@media print { .super-ops-Subheading_syouu { font-size: 1.1rem; } }

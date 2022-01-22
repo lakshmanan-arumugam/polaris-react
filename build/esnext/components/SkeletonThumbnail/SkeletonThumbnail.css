@@ -1,0 +1,11 @@
+.super-ops-SkeletonThumbnail_u7qua { position: relative; }
+
+.super-ops-SkeletonThumbnail_u7qua::after { content: ''; position: absolute; top: 0; right: 0; bottom: 0; left: 0; display: block; background-color: var(--p-surface-neutral); border-radius: 0.1875rem; }
+
+@media screen and (-ms-high-contrast: active) { .super-ops-SkeletonThumbnail_u7qua::after { background-color: grayText; } }
+
+.super-ops-SkeletonThumbnail--sizeSmall_7647q { height: 2.5rem; width: 2.5rem; }
+
+.super-ops-SkeletonThumbnail--sizeMedium_5f35p { height: 3.75rem; width: 3.75rem; }
+
+.super-ops-SkeletonThumbnail--sizeLarge_61dxo { height: 5rem; width: 5rem; }

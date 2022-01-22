@@ -1,0 +1,7 @@
+import './Subheading.css';
+
+var styles = {
+  "Subheading": "super-ops-Subheading_syouu"
+};
+
+export { styles as default };

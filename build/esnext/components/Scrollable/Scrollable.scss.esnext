@@ -1,0 +1,12 @@
+import './Scrollable.css';
+
+var styles = {
+  "Scrollable": "super-ops-Scrollable_1ed9o",
+  "horizontal": "super-ops-Scrollable--horizontal_17qq4",
+  "vertical": "super-ops-Scrollable--vertical_uiuuj",
+  "verticalHasScrolling": "super-ops-Scrollable--verticalHasScrolling_1n2r8",
+  "hasTopShadow": "super-ops-Scrollable--hasTopShadow_cgwp0",
+  "hasBottomShadow": "super-ops-Scrollable--hasBottomShadow_all2n"
+};
+
+export { styles as default };

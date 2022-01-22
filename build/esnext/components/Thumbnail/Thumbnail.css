@@ -1,0 +1,13 @@
+.super-ops-Thumbnail_15hj1 { position: relative; display: block; overflow: hidden; background: var(--p-surface); min-width: 2.5rem; max-width: 100%; border-radius: var(--p-border-radius-base); border: 0.0625rem solid var(--p-divider); }
+
+.super-ops-Thumbnail_15hj1::after { content: ''; display: block; padding-bottom: 100%; }
+
+.super-ops-Thumbnail--sizeSmall_7647q { width: 2.5rem; }
+
+.super-ops-Thumbnail--sizeMedium_5f35p { width: 3.75rem; }
+
+.super-ops-Thumbnail--sizeLarge_61dxo { width: 5rem; }
+
+.super-ops-Thumbnail_15hj1 > * { position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin: auto; max-width: 100%; max-height: 100%; color: var(--p-icon-subdued); }
+
+.super-ops-Thumbnail_15hj1 > * svg { fill: currentColor; }

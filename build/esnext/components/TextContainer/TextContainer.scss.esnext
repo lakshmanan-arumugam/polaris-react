@@ -1,0 +1,9 @@
+import './TextContainer.css';
+
+var styles = {
+  "TextContainer": "super-ops-TextContainer_szg8b",
+  "spacingTight": "super-ops-TextContainer--spacingTight_1o4d6",
+  "spacingLoose": "super-ops-TextContainer--spacingLoose_yte7q"
+};
+
+export { styles as default };

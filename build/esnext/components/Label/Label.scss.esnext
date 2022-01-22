@@ -1,0 +1,10 @@
+import './Label.css';
+
+var styles = {
+  "Label": "super-ops-Label_2vd36",
+  "hidden": "super-ops-Label--hidden_riqie",
+  "Text": "super-ops-Label__Text_yj3uv",
+  "RequiredIndicator": "super-ops-Label__RequiredIndicator_1homk"
+};
+
+export { styles as default };

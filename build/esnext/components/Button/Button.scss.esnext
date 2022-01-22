@@ -1,0 +1,31 @@
+import './Button.css';
+
+var styles = {
+  "Button": "super-ops-Button_r99lw",
+  "pressed": "super-ops-Button--pressed_17w8v",
+  "disabled": "super-ops-Button--disabled_hcuh9",
+  "connectedDisclosure": "super-ops-Button--connectedDisclosure_153ua",
+  "Content": "super-ops-Button__Content_xd1mk",
+  "plain": "super-ops-Button--plain_2z97r",
+  "textAlignLeft": "super-ops-Button--textAlignLeft_1yjwh",
+  "textAlignCenter": "super-ops-Button--textAlignCenter_1kere",
+  "textAlignRight": "super-ops-Button--textAlignRight_1nn4o",
+  "Icon": "super-ops-Button__Icon_yj27d",
+  "fullWidth": "super-ops-Button--fullWidth_zyvh4",
+  "hidden": "super-ops-Button--hidden_riqie",
+  "Spinner": "super-ops-Button__Spinner_mzr5w",
+  "primary": "super-ops-Button--primary_7k9zs",
+  "destructive": "super-ops-Button--destructive_zy6o5",
+  "outline": "super-ops-Button--outline_1urzi",
+  "loading": "super-ops-Button--loading_1brcv",
+  "removeUnderline": "super-ops-Button--removeUnderline_adav6",
+  "iconOnly": "super-ops-Button--iconOnly_viazp",
+  "sizeSlim": "super-ops-Button--sizeSlim_1p6ue",
+  "sizeLarge": "super-ops-Button--sizeLarge_61dxo",
+  "monochrome": "super-ops-Button--monochrome_14jw2",
+  "Text": "super-ops-Button__Text_yj3uv",
+  "ConnectedDisclosureWrapper": "super-ops-Button__ConnectedDisclosureWrapper_90uyh",
+  "ConnectedDisclosure": "super-ops-Button__ConnectedDisclosure_153ua"
+};
+
+export { styles as default };

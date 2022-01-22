@@ -1,0 +1,28 @@
+import './Banner.css';
+
+var styles = {
+  "Banner": "super-ops-Banner_z4w8k",
+  "statusCritical": "super-ops-Banner--statusCritical_1iy3d",
+  "PrimaryAction": "super-ops-Banner__PrimaryAction_eeemy",
+  "Button": "super-ops-Banner__Button_r99lw",
+  "statusWarning": "super-ops-Banner--statusWarning_1x66d",
+  "statusInfo": "super-ops-Banner--statusInfo_knr66",
+  "statusSuccess": "super-ops-Banner--statusSuccess_pc5rl",
+  "ContentWrapper": "super-ops-Banner__ContentWrapper_1yvfo",
+  "withinContentContainer": "super-ops-Banner--withinContentContainer_1uwmg",
+  "Dismiss": "super-ops-Banner__Dismiss_z8d6a",
+  "Ribbon": "super-ops-Banner__Ribbon_r8z8p",
+  "keyFocused": "super-ops-Banner--keyFocused_1aqee",
+  "Actions": "super-ops-Banner__Actions_17m67",
+  "withinPage": "super-ops-Banner--withinPage_kguwn",
+  "hasDismiss": "super-ops-Banner--hasDismiss_kf0ua",
+  "Heading": "super-ops-Banner__Heading_1brcv",
+  "Content": "super-ops-Banner__Content_xd1mk",
+  "SecondaryAction": "super-ops-Banner__SecondaryAction_1dl4i",
+  "Text": "super-ops-Banner__Text_yj3uv",
+  "pressed": "super-ops-Banner--pressed_17w8v",
+  "loading": "super-ops-Banner--loading_1brcv",
+  "Spinner": "super-ops-Banner__Spinner_mzr5w"
+};
+
+export { styles as default };

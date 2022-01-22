@@ -1,0 +1,10 @@
+import './DescriptionList.css';
+
+var styles = {
+  "DescriptionList": "super-ops-DescriptionList_2sz2o",
+  "Term": "super-ops-DescriptionList__Term_yiyxp",
+  "spacingTight": "super-ops-DescriptionList--spacingTight_1o4d6",
+  "Description": "super-ops-DescriptionList__Description_s1jgm"
+};
+
+export { styles as default };

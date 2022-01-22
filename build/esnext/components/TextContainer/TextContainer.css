@@ -1,0 +1,5 @@
+.super-ops-TextContainer_szg8b > *:not(:first-child) { margin-top: 1rem; }
+
+.super-ops-TextContainer--spacingTight_1o4d6 > *:not(:first-child) { margin-top: 0.5rem; }
+
+.super-ops-TextContainer--spacingLoose_yte7q > *:not(:first-child) { margin-top: 1.25rem; }

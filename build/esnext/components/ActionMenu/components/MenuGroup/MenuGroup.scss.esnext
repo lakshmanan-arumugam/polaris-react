@@ -1,0 +1,7 @@
+import './MenuGroup.css';
+
+var styles = {
+  "Details": "super-ops-ActionMenu-MenuGroup__Details_1bdkj"
+};
+
+export { styles as default };

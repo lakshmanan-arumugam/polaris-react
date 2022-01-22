@@ -1,0 +1,9 @@
+import './List.css';
+
+var styles = {
+  "List": "super-ops-List_yj3nl",
+  "typeNumber": "super-ops-List--typeNumber_bbvwn",
+  "Item": "super-ops-List__Item_yiyol"
+};
+
+export { styles as default };

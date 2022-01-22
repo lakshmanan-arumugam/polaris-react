@@ -1,0 +1,18 @@
+import './Option.css';
+
+var styles = {
+  "Option": "super-ops-OptionList-Option_r96cc",
+  "SingleSelectOption": "super-ops-OptionList-Option__SingleSelectOption_gki7z",
+  "focused": "super-ops-OptionList-Option--focused_17w4h",
+  "active": "super-ops-OptionList-Option--active_jeq8y",
+  "select": "super-ops-OptionList-Option--select_ss8pl",
+  "disabled": "super-ops-OptionList-Option--disabled_hcuh9",
+  "Media": "super-ops-OptionList-Option__Media_2t8qq",
+  "Label": "super-ops-OptionList-Option__Label_2vd36",
+  "Checkbox": "super-ops-OptionList-Option__Checkbox_1d6zr",
+  "verticalAlignTop": "super-ops-OptionList-Option--verticalAlignTop_ckp14",
+  "verticalAlignCenter": "super-ops-OptionList-Option--verticalAlignCenter_1962m",
+  "verticalAlignBottom": "super-ops-OptionList-Option--verticalAlignBottom_1vhxo"
+};
+
+export { styles as default };

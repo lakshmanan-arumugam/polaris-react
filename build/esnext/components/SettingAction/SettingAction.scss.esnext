@@ -1,0 +1,9 @@
+import './SettingAction.css';
+
+var styles = {
+  "SettingAction": "super-ops-SettingAction_19djk",
+  "Setting": "super-ops-SettingAction__Setting_1brov",
+  "Action": "super-ops-SettingAction__Action_r96cs"
+};
+
+export { styles as default };

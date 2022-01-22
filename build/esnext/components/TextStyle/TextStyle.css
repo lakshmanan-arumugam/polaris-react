@@ -1,0 +1,15 @@
+.super-ops-TextStyle--variationPositive_wlv2n { color: var(--p-text-success); }
+
+.super-ops-TextStyle--variationNegative_19crm { color: var(--p-text-critical); }
+
+.super-ops-TextStyle--variationWarning_19u9z { color: var(--p-text-warning); }
+
+.super-ops-TextStyle--variationCode_zrni6 { position: relative; padding: 0 0.25rem; border-radius: 0.1875rem; background-color: var(--p-surface-subdued); display: inline-block; font-size: 1.15em; box-shadow: inset 0 0 0 0.0625rem var(--p-border-subdued); }
+
+.super-ops-TextStyle--variationCode_zrni6::after { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0.0625rem solid transparent; pointer-events: none; }
+
+.super-ops-TextStyle--variationStrong_rpyvj { font-weight: 600; }
+
+.super-ops-TextStyle--variationSubdued_1segu { color: var(--p-text-subdued); }
+
+@media print { .super-ops-TextStyle--variationSubdued_1segu { color: var(--p-text-subdued); } }

@@ -1,0 +1,9 @@
+import './Header.css';
+
+var styles = {
+  "Header": "super-ops-Modal-Header_z4uwg",
+  "titleHidden": "super-ops-Modal-Header--titleHidden_14zrw",
+  "Title": "super-ops-Modal-Header__Title_2qj8j"
+};
+
+export { styles as default };

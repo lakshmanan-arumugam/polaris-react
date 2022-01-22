@@ -1,0 +1,10 @@
+import './Modal.css';
+
+var styles = {
+  "BodyWrapper": "super-ops-Modal__BodyWrapper_1kb1f",
+  "Body": "super-ops-Modal__Body_yjdx1",
+  "IFrame": "super-ops-Modal__IFrame_j9n24",
+  "Spinner": "super-ops-Modal__Spinner_mzr5w"
+};
+
+export { styles as default };

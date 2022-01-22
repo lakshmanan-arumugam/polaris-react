@@ -1,0 +1,11 @@
+import './Page.css';
+
+var styles = {
+  "Page": "super-ops-Page_yisnh",
+  "fullWidth": "super-ops-Page--fullWidth_zyvh4",
+  "narrowWidth": "super-ops-Page--narrowWidth_yaeah",
+  "Content": "super-ops-Page__Content_xd1mk",
+  "divider": "super-ops-Page--divider_myoiu"
+};
+
+export { styles as default };

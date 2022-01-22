@@ -1,0 +1,9 @@
+import './Breadcrumbs.css';
+
+var styles = {
+  "Breadcrumb": "super-ops-Breadcrumbs__Breadcrumb_llsun",
+  "Icon": "super-ops-Breadcrumbs__Icon_yj27d",
+  "Content": "super-ops-Breadcrumbs__Content_xd1mk"
+};
+
+export { styles as default };

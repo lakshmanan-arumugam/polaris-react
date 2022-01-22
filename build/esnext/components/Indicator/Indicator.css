@@ -1,0 +1,14 @@
+.super-ops-Indicator_dw7mr::before, .super-ops-Indicator_dw7mr::after { content: ''; position: absolute; background-color: var(--p-border-highlight); right: -0.25rem; top: -0.25rem; width: 0.625rem; height: 0.625rem; border-radius: 100%; border: 0.3125rem solid transparent; }
+
+.super-ops-Indicator--pulseIndicator_2j5c8::before { z-index: 1; animation: super-ops-Indicator--bounce_j5l5s 5s ease infinite; }
+
+.super-ops-Indicator--pulseIndicator_2j5c8::after { right: -0.25rem; top: -0.25rem; animation: super-ops-Indicator--pulse_2qq42 5s ease infinite; }
+
+@keyframes super-ops-Indicator--bounce_j5l5s { from, 65%, 85% { transform: scale(1); }
+  75% { transform: scale(0.85); }
+  82.5% { transform: scale(1.05); } }
+
+@keyframes super-ops-Indicator--pulse_2qq42 { from, 75% { transform: scale(0.85);
+    opacity: 1; }
+  to { transform: scale(2.5);
+    opacity: 0; } }

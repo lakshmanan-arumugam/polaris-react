@@ -1,0 +1,28 @@
+import './Stack.css';
+
+var styles = {
+  "Stack": "super-ops-Stack_32wu2",
+  "Item": "super-ops-Stack__Item_yiyol",
+  "noWrap": "super-ops-Stack--noWrap_vecks",
+  "spacingNone": "super-ops-Stack--spacingNone_1b3d3",
+  "spacingExtraTight": "super-ops-Stack--spacingExtraTight_gv6hw",
+  "spacingTight": "super-ops-Stack--spacingTight_1o4d6",
+  "spacingBaseTight": "super-ops-Stack--spacingBaseTight_nb78v",
+  "spacingLoose": "super-ops-Stack--spacingLoose_yte7q",
+  "spacingExtraLoose": "super-ops-Stack--spacingExtraLoose_1ptvt",
+  "distributionLeading": "super-ops-Stack--distributionLeading_rudtn",
+  "distributionTrailing": "super-ops-Stack--distributionTrailing_z5d5z",
+  "distributionCenter": "super-ops-Stack--distributionCenter_60gbr",
+  "distributionEqualSpacing": "super-ops-Stack--distributionEqualSpacing_x9cqm",
+  "distributionFill": "super-ops-Stack--distributionFill_1c1lq",
+  "distributionFillEvenly": "super-ops-Stack--distributionFillEvenly_aehjo",
+  "alignmentLeading": "super-ops-Stack--alignmentLeading_1pu7t",
+  "alignmentTrailing": "super-ops-Stack--alignmentTrailing_cp27m",
+  "alignmentCenter": "super-ops-Stack--alignmentCenter_1rtaw",
+  "alignmentFill": "super-ops-Stack--alignmentFill_m3d4l",
+  "alignmentBaseline": "super-ops-Stack--alignmentBaseline_aupj5",
+  "vertical": "super-ops-Stack--vertical_uiuuj",
+  "Item-fill": "super-ops-Stack__Item--fill_vpuzt"
+};
+
+export { styles as default };

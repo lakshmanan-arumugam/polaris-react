@@ -1,0 +1,10 @@
+import './PositionedOverlay.css';
+
+var styles = {
+  "PositionedOverlay": "super-ops-PositionedOverlay_2y1hl",
+  "fixed": "super-ops-PositionedOverlay--fixed_2pq5o",
+  "calculating": "super-ops-PositionedOverlay--calculating_fzare",
+  "preventInteraction": "super-ops-PositionedOverlay--preventInteraction_11hw5"
+};
+
+export { styles as default };

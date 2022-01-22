@@ -1,0 +1,9 @@
+import './Menu.css';
+
+var styles = {
+  "ActivatorWrapper": "super-ops-TopBar-Menu__ActivatorWrapper_1gxxh",
+  "Activator": "super-ops-TopBar-Menu__Activator_e3w0d",
+  "Section": "super-ops-TopBar-Menu__Section_1b1h1"
+};
+
+export { styles as default };

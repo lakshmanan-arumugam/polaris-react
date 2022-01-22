@@ -1,0 +1,8 @@
+import './Section.css';
+
+var styles = {
+  "SectionGroup": "super-ops-Listbox-Section__SectionGroup_gynu8",
+  "noDivider": "super-ops-Listbox-Section--noDivider_485wt"
+};
+
+export { styles as default };

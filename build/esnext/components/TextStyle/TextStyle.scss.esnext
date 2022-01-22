@@ -1,0 +1,12 @@
+import './TextStyle.css';
+
+var styles = {
+  "variationPositive": "super-ops-TextStyle--variationPositive_wlv2n",
+  "variationNegative": "super-ops-TextStyle--variationNegative_19crm",
+  "variationWarning": "super-ops-TextStyle--variationWarning_19u9z",
+  "variationCode": "super-ops-TextStyle--variationCode_zrni6",
+  "variationStrong": "super-ops-TextStyle--variationStrong_rpyvj",
+  "variationSubdued": "super-ops-TextStyle--variationSubdued_1segu"
+};
+
+export { styles as default };

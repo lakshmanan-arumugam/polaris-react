@@ -1,0 +1,5 @@
+.super-ops-PageActions_fcnua { margin: 0 auto; padding: 1.25rem; border-top: 0.0625rem solid var(--p-divider); }
+
+@media (max-width: 48.0625em) and (min-width: 30.625em), (min-width: 45.625em) { [data-has-navigation] .super-ops-PageActions_fcnua { padding: 1.25rem 0; } }
+
+@media (min-width: 30.625em) { .super-ops-PageActions_fcnua { padding: 1.25rem 0; } }

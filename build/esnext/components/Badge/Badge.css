@@ -1,0 +1,31 @@
+.super-ops-Badge_2qgie { --p-component-badge-pip-color: var(--p-icon); display: inline-flex; align-items: center; padding: 0.125rem 0.5rem; background-color: var(--p-surface-neutral); border-radius: 1.25rem; font-size: 0.8125rem; line-height: 1rem; color: var(--p-text); font-weight: var(--p-badge-font-weight); }
+
+@media print { .super-ops-Badge_2qgie { border: solid 0.00625rem var(--p-border); } }
+
+.super-ops-Badge--sizeSmall_7647q { font-size: 0.75rem; }
+
+.super-ops-Badge--statusSuccess_pc5rl { --p-component-badge-pip-color: var(--p-icon-success); background-color: var(--p-surface-success); color: var(--p-text); }
+
+.super-ops-Badge--statusInfo_knr66 { --p-component-badge-pip-color: var(--p-icon-highlight); background-color: var(--p-surface-highlight); color: var(--p-text); }
+
+.super-ops-Badge--statusAttention_i61kn { --p-component-badge-pip-color: rgb(138, 97, 22); background-color: #ffea8a; color: var(--p-text); }
+
+.super-ops-Badge--statusWarning_1x66d { --p-component-badge-pip-color: var(--p-icon-warning); background-color: var(--p-surface-warning); color: var(--p-text); }
+
+.super-ops-Badge--statusCritical_1iy3d { --p-component-badge-pip-color: var(--p-icon-critical); background-color: var(--p-surface-critical); color: var(--p-text); }
+
+.super-ops-Badge--statusNew_cj8gz { background-color: var(--p-surface-neutral); color: var(--p-text); font-weight: 500; border: none; }
+
+.super-ops-Badge__Pip_375sr { color: var(--p-component-badge-pip-color); height: 0.5rem; width: 0.5rem; margin-right: 0.25rem; margin-left: -0.125rem; border: 0.125rem solid currentColor; border-radius: 50%; flex-shrink: 0; }
+
+.super-ops-Badge--progressIncomplete_1jg92 .super-ops-Badge__Pip_375sr { background: transparent; }
+
+.super-ops-Badge--progressPartiallyComplete_11p0t .super-ops-Badge__Pip_375sr { background: linear-gradient(to top, currentColor, currentColor 50%, transparent 50%, transparent); }
+
+@media print { .super-ops-Badge--progressPartiallyComplete_11p0t .super-ops-Badge__Pip_375sr { background: none; box-shadow: 0 -6.375rem 0 -6.25rem currentColor inset; } }
+
+.super-ops-Badge--progressComplete_189p5 .super-ops-Badge__Pip_375sr { background: currentColor; }
+
+@media print { .super-ops-Badge--progressComplete_189p5 .super-ops-Badge__Pip_375sr { background: none; box-shadow: 0 0 0 6.25rem currentColor inset; } }
+
+.super-ops-Badge--withinFilter_11dcy { border-radius: var(--p-border-radius-base); }

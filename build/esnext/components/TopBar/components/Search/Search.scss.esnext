@@ -1,0 +1,10 @@
+import './Search.css';
+
+var styles = {
+  "Search": "super-ops-TopBar-Search_q76sw",
+  "SearchContent": "super-ops-TopBar-Search__SearchContent_6oiep",
+  "visible": "super-ops-TopBar-Search--visible_1wa12",
+  "Results": "super-ops-TopBar-Search__Results_w9d26"
+};
+
+export { styles as default };

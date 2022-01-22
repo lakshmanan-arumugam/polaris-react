@@ -1,0 +1,22 @@
+.super-ops-TopBar-Menu__ActivatorWrapper_1gxxh { height: 3.5rem; display: flex; align-items: center; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d { -webkit-appearance: none; appearance: none; margin: 0; padding: 0; background: none; border: none; font-size: inherit; line-height: inherit; color: inherit; cursor: pointer; position: relative; color: var(--p-text); position: relative; display: flex; justify-content: center; align-items: center; min-width: 2.25rem; padding: 0.375rem 0.5rem; border: 0; cursor: pointer; transition: background-color 0.1s; margin-right: 0.5rem; border-radius: 0.1875rem; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:focus { outline: none; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d::after { content: ''; position: absolute; z-index: 1; top: -0.0625rem; right: -0.0625rem; bottom: -0.0625rem; left: -0.0625rem; display: block; pointer-events: none; box-shadow: 0 0 0 -0.0625rem var(--p-focused); transition: box-shadow 100ms var(--p-ease); border-radius: calc(var(--p-border-radius-base) + 0.0625rem); }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:focus { background-color: var(--top-bar-background-lighter); outline: none; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:focus::after { box-shadow: 0 0 0 0.125rem var(--p-focused); outline: 0.0625rem solid transparent; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:hover { background-color: var(--top-bar-background-lighter, var(--p-surface-hovered)); }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:active, .super-ops-TopBar-Menu__Activator_e3w0d[aria-expanded='true'] { background-color: var(--top-bar-background-darker, var(--p-surface-pressed)); outline: none; transition: none; }
+
+.super-ops-TopBar-Menu__Activator_e3w0d:active::after, .super-ops-TopBar-Menu__Activator_e3w0d[aria-expanded='true']::after { border: none; }
+
+@media (max-width: 48.0525em) { .super-ops-TopBar-Menu__Activator_e3w0d { margin: 0; }
+  .super-ops-TopBar-Menu__Activator_e3w0d:focus, .super-ops-TopBar-Menu__Activator_e3w0d:hover, .super-ops-TopBar-Menu__Activator_e3w0d:active, .super-ops-TopBar-Menu__Activator_e3w0d[aria-expanded='true'] { background-color: transparent; opacity: 0.85; } }
+
+.super-ops-TopBar-Menu__Section_1b1h1 { margin-top: 0.5rem; padding-top: 0.5rem; border-top: 0.0625rem solid var(--p-divider); }

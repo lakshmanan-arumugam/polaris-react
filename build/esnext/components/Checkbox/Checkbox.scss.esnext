@@ -1,0 +1,14 @@
+import './Checkbox.css';
+
+var styles = {
+  "Checkbox": "super-ops-Checkbox_1d6zr",
+  "Input": "super-ops-Checkbox__Input_30ock",
+  "keyFocused": "super-ops-Checkbox--keyFocused_1aqee",
+  "Backdrop": "super-ops-Checkbox__Backdrop_1x2i2",
+  "Input-indeterminate": "super-ops-Checkbox__Input--indeterminate_wtlpx",
+  "Icon": "super-ops-Checkbox__Icon_yj27d",
+  "hover": "super-ops-Checkbox--hover_37sww",
+  "error": "super-ops-Checkbox--error_37uk1"
+};
+
+export { styles as default };

@@ -1,0 +1,9 @@
+.super-ops-SkeletonBodyText_4hwgi { height: 0.5rem; position: relative; }
+
+.super-ops-SkeletonBodyText_4hwgi::after { content: ''; position: absolute; top: 0; right: 0; bottom: 0; left: 0; display: block; background-color: var(--p-surface-neutral); border-radius: 0.1875rem; }
+
+@media screen and (-ms-high-contrast: active) { .super-ops-SkeletonBodyText_4hwgi::after { background-color: grayText; } }
+
+.super-ops-SkeletonBodyText_4hwgi:last-child:not(:first-child) { width: 80%; }
+
+.super-ops-SkeletonBodyText_4hwgi + .super-ops-SkeletonBodyText_4hwgi { margin-top: 0.75rem; }

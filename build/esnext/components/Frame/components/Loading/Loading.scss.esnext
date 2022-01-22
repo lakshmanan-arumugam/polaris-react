@@ -1,0 +1,8 @@
+import './Loading.css';
+
+var styles = {
+  "Loading": "super-ops-Frame-Loading_1brcv",
+  "Level": "super-ops-Frame-Loading__Level_2vddd"
+};
+
+export { styles as default };

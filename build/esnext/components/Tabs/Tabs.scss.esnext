@@ -1,0 +1,23 @@
+import './Tabs.css';
+
+var styles = {
+  "Tabs": "super-ops-Tabs_yjc8o",
+  "Wrapper": "super-ops-Tabs__Wrapper_mkrm3",
+  "fitted": "super-ops-Tabs--fitted_ijluy",
+  "TabContainer": "super-ops-Tabs__TabContainer_dsj6d",
+  "Title": "super-ops-Tabs__Title_2qj8j",
+  "fillSpace": "super-ops-Tabs--fillSpace_yc42y",
+  "Tab": "super-ops-Tabs__Tab_375k2",
+  "Tab-selected": "super-ops-Tabs__Tab--selected_11sap",
+  "titleWithIcon": "super-ops-Tabs--titleWithIcon_11lkm",
+  "Panel": "super-ops-Tabs__Panel_2vct4",
+  "Panel-hidden": "super-ops-Tabs__Panel--hidden_1h4kj",
+  "List": "super-ops-Tabs__List_yj3nl",
+  "Item": "super-ops-Tabs__Item_yiyol",
+  "DisclosureTab": "super-ops-Tabs__DisclosureTab_1qbhg",
+  "DisclosureTab-visible": "super-ops-Tabs__DisclosureTab--visible_1v5xr",
+  "DisclosureActivator": "super-ops-Tabs__DisclosureActivator_1mita",
+  "TabMeasurer": "super-ops-Tabs__TabMeasurer_1aget"
+};
+
+export { styles as default };

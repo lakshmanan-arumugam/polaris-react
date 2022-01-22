@@ -1,0 +1,7 @@
+@keyframes super-ops-Spinner--loading_1brcv { to { transform: rotate(360deg); } }
+
+.super-ops-Spinner_mzr5w svg { animation: super-ops-Spinner--loading_1brcv 500ms linear infinite; fill: var(--p-border-highlight); }
+
+.super-ops-Spinner--sizeSmall_7647q svg { height: 1.25rem; width: 1.25rem; }
+
+.super-ops-Spinner--sizeLarge_61dxo svg { height: 2.75rem; width: 2.75rem; }

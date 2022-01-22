@@ -1,0 +1,37 @@
+.super-ops-Frame-ContextualSaveBar_14m7v { display: flex; height: 3.5rem; background: var(--p-surface); box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1); }
+
+.super-ops-Frame-ContextualSaveBar_14m7v .super-ops-Frame-ContextualSaveBar__LogoContainer_szav1 { border-right: none; }
+
+.super-ops-Frame-ContextualSaveBar_14m7v .super-ops-Frame-ContextualSaveBar__ContextControl_3di0f { opacity: 0.3; pointer-events: none; }
+
+.super-ops-Frame-ContextualSaveBar_14m7v .super-ops-Frame-ContextualSaveBar__Message_1u7n0 { color: var(--p-text); }
+
+@media (forced-colors: active) { .super-ops-Frame-ContextualSaveBar_14m7v { border: 0.0625rem solid transparent; } }
+
+.super-ops-Frame-ContextualSaveBar__LogoContainer_szav1 { display: none; }
+
+@media (min-width: 48.0625em) { .super-ops-Frame-ContextualSaveBar__LogoContainer_szav1 { display: flex; flex: 0 0 15rem; align-items: center; height: 100%; padding: 0 1rem; background-color: transparent; } }
+
+.super-ops-Frame-ContextualSaveBar__Contents_1u1wn { display: flex; flex: 1 1 auto; align-items: center; justify-content: space-between; min-width: 0.0625rem; max-width: 62.375rem; height: 100%; margin: 0 auto; padding: 0 1rem; }
+
+@media (max-width: 48.0625em) and (min-width: 30.625em), (min-width: 45.625em) { [data-has-navigation] .super-ops-Frame-ContextualSaveBar__Contents_1u1wn { padding: 0 1.25rem; } }
+
+@media (min-width: 30.625em) { .super-ops-Frame-ContextualSaveBar__Contents_1u1wn { padding: 0 1.25rem; } }
+
+@media (max-width: 48.0625em) and (min-width: 46.5em), (min-width: 61.5em) { [data-has-navigation] .super-ops-Frame-ContextualSaveBar__Contents_1u1wn { padding: 0 2rem; } }
+
+@media (min-width: 46.5em) { .super-ops-Frame-ContextualSaveBar__Contents_1u1wn { padding: 0 2rem; } }
+
+.super-ops-Frame-ContextualSaveBar--fullWidth_zyvh4 { max-width: none; padding: 0 1rem; }
+
+.super-ops-Frame-ContextualSaveBar__Message_1u7n0 { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-size: 1.0625rem; font-weight: 600; line-height: 1.5rem; color: var(--p-text-subdued); }
+
+@media (min-width: 40em) { .super-ops-Frame-ContextualSaveBar__Message_1u7n0 { font-size: 1rem; } }
+
+.super-ops-Frame-ContextualSaveBar__ActionContainer_hk0rr { flex-shrink: 0; }
+
+.super-ops-Frame-ContextualSaveBar__Action_r96cs { margin-left: 0.5rem; }
+
+.super-ops-Frame-ContextualSaveBar__ContextControl_3di0f { display: none; }
+
+@media (min-width: 48.0625em) { .super-ops-Frame-ContextualSaveBar__ContextControl_3di0f { display: block; width: 15rem; } }

@@ -1,0 +1,10 @@
+import './Indicator.css';
+
+var styles = {
+  "Indicator": "super-ops-Indicator_dw7mr",
+  "pulseIndicator": "super-ops-Indicator--pulseIndicator_2j5c8",
+  "bounce": "super-ops-Indicator--bounce_j5l5s",
+  "pulse": "super-ops-Indicator--pulse_2qq42"
+};
+
+export { styles as default };

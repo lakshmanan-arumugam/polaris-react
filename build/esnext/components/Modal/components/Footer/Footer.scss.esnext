@@ -1,0 +1,8 @@
+import './Footer.css';
+
+var styles = {
+  "Footer": "super-ops-Modal-Footer_z4ij5",
+  "FooterContent": "super-ops-Modal-Footer__FooterContent_pymp5"
+};
+
+export { styles as default };

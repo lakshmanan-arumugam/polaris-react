@@ -1,0 +1,21 @@
+.super-ops-Frame-Toast_30jlx { font-size: 1rem; font-weight: 400; line-height: 1.5rem; display: inline-flex; max-width: 31.25rem; padding: 0.5rem 1rem; border-radius: var(--p-border-radius-wide); background: var(--p-surface); color: var(--p-text); margin-bottom: 1.25rem; }
+
+@media (min-width: 40em) { .super-ops-Frame-Toast_30jlx { font-size: 1.25rem; line-height: 1.75rem; } }
+
+@media (min-width: 40em) { .super-ops-Frame-Toast_30jlx { padding: 1rem; } }
+
+@media (forced-colors: active) { .super-ops-Frame-Toast_30jlx { border: 0.125rem solid transparent; } }
+
+.super-ops-Frame-Toast__Action_r96cs { margin-left: 2rem; margin-right: 1rem; }
+
+.super-ops-Frame-Toast--error_37uk1 { background: var(--p-action-critical); color: var(--p-text-on-critical); }
+
+.super-ops-Frame-Toast--error_37uk1 .super-ops-Frame-Toast__CloseButton_bl13t { fill: var(--p-icon-on-critical); }
+
+.super-ops-Frame-Toast__CloseButton_bl13t { display: flex; align-self: center; flex-direction: column; justify-content: flex-start; margin-right: -1rem; padding: 0 1rem; border: none; -webkit-appearance: none; appearance: none; background: transparent; color: currentColor; cursor: pointer; }
+
+.super-ops-Frame-Toast__CloseButton_bl13t svg { fill: currentColor; }
+
+@media (min-width: 40em) { .super-ops-Frame-Toast__CloseButton_bl13t { align-self: flex-start; margin: -0.5rem -1rem -0.5rem 0; padding: 0.75rem 1rem 0.5rem; } }
+
+.super-ops-Frame-Toast__CloseButton_bl13t:focus { outline: none; }

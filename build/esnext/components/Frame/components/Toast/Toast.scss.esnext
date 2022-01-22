@@ -1,0 +1,10 @@
+import './Toast.css';
+
+var styles = {
+  "Toast": "super-ops-Frame-Toast_30jlx",
+  "Action": "super-ops-Frame-Toast__Action_r96cs",
+  "error": "super-ops-Frame-Toast--error_37uk1",
+  "CloseButton": "super-ops-Frame-Toast__CloseButton_bl13t"
+};
+
+export { styles as default };

@@ -1,0 +1,20 @@
+import './Icon.css';
+
+var styles = {
+  "Icon": "super-ops-Icon_yj27d",
+  "applyColor": "super-ops-Icon--applyColor_2y25n",
+  "hasBackdrop": "super-ops-Icon--hasBackdrop_1anyy",
+  "colorBase": "super-ops-Icon--colorBase_nqlaq",
+  "colorSubdued": "super-ops-Icon--colorSubdued_113xs",
+  "colorCritical": "super-ops-Icon--colorCritical_glskc",
+  "colorInteractive": "super-ops-Icon--colorInteractive_1wzbd",
+  "colorWarning": "super-ops-Icon--colorWarning_14tqz",
+  "colorHighlight": "super-ops-Icon--colorHighlight_2qv4t",
+  "colorSuccess": "super-ops-Icon--colorSuccess_k0sue",
+  "colorPrimary": "super-ops-Icon--colorPrimary_4ruww",
+  "Svg": "super-ops-Icon__Svg_375hu",
+  "Img": "super-ops-Icon__Img_375hq",
+  "Placeholder": "super-ops-Icon__Placeholder_w9ga3"
+};
+
+export { styles as default };

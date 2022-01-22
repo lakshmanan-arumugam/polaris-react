@@ -1,0 +1,5 @@
+.super-ops-Heading_1brcv { font-size: 1.0625rem; font-weight: 600; line-height: 1.5rem; margin: 0; }
+
+@media (min-width: 40em) { .super-ops-Heading_1brcv { font-size: 1rem; } }
+
+@media print { .super-ops-Heading_1brcv { font-size: 0.875rem; line-height: 1.125rem; } }

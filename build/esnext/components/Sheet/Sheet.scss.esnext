@@ -1,0 +1,18 @@
+import './Sheet.css';
+
+var styles = {
+  "Sheet": "super-ops-Sheet_310da",
+  "Container": "super-ops-Sheet__Container_13mbo",
+  "Bottom": "super-ops-Sheet__Bottom_o943l",
+  "enterBottom": "super-ops-Sheet--enterBottom_1h540",
+  "enterBottomActive": "super-ops-Sheet--enterBottomActive_vylvu",
+  "exitBottom": "super-ops-Sheet--exitBottom_3rhyu",
+  "exitBottomActive": "super-ops-Sheet--exitBottomActive_dvue7",
+  "Right": "super-ops-Sheet__Right_312we",
+  "enterRight": "super-ops-Sheet--enterRight_2ne6y",
+  "enterRightActive": "super-ops-Sheet--enterRightActive_mka44",
+  "exitRight": "super-ops-Sheet--exitRight_1bfff",
+  "exitRightActive": "super-ops-Sheet--exitRightActive_so2w2"
+};
+
+export { styles as default };

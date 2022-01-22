@@ -1,0 +1,9 @@
+import './SearchDismissOverlay.css';
+
+var styles = {
+  "SearchDismissOverlay": "super-ops-TopBar-SearchDismissOverlay_1vuxf",
+  "visible": "super-ops-TopBar-SearchDismissOverlay--visible_1wa12",
+  "fade-in": "super-ops-TopBar-SearchDismissOverlay__fade--in_1b5b2"
+};
+
+export { styles as default };

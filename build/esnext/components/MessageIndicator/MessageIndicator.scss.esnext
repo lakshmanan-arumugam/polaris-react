@@ -1,0 +1,8 @@
+import './MessageIndicator.css';
+
+var styles = {
+  "MessageIndicatorWrapper": "super-ops-MessageIndicator__MessageIndicatorWrapper_152yb",
+  "MessageIndicator": "super-ops-MessageIndicator_1e26p"
+};
+
+export { styles as default };

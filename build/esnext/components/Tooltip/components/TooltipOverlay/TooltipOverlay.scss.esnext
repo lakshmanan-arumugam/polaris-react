@@ -1,0 +1,10 @@
+import './TooltipOverlay.css';
+
+var styles = {
+  "TooltipOverlay": "super-ops-Tooltip-TooltipOverlay_16r9b",
+  "measuring": "super-ops-Tooltip-TooltipOverlay--measuring_wb2tw",
+  "positionedAbove": "super-ops-Tooltip-TooltipOverlay--positionedAbove_1f44z",
+  "Content": "super-ops-Tooltip-TooltipOverlay__Content_xd1mk"
+};
+
+export { styles as default };

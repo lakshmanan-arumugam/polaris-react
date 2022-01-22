@@ -1,0 +1,32 @@
+import './TextField.css';
+
+var styles = {
+  "TextField": "super-ops-TextField_1spwi",
+  "multiline": "super-ops-TextField--multiline_1jgfe",
+  "Input": "super-ops-TextField__Input_30ock",
+  "hasValue": "super-ops-TextField--hasValue_1mx8d",
+  "focus": "super-ops-TextField--focus_383dj",
+  "Backdrop": "super-ops-TextField__Backdrop_1x2i2",
+  "error": "super-ops-TextField--error_37uk1",
+  "readOnly": "super-ops-TextField--readOnly_vi6ia",
+  "disabled": "super-ops-TextField--disabled_hcuh9",
+  "Prefix": "super-ops-TextField__Prefix_10fbz",
+  "Input-hasClearButton": "super-ops-TextField__Input--hasClearButton_15k6h",
+  "Input-suffixed": "super-ops-TextField__Input--suffixed_1tsyu",
+  "Input-alignRight": "super-ops-TextField__Input--alignRight_1d0yj",
+  "Input-alignLeft": "super-ops-TextField__Input--alignLeft_exwxn",
+  "Input-alignCenter": "super-ops-TextField__Input--alignCenter_7nhdy",
+  "Suffix": "super-ops-TextField__Suffix_10fbu",
+  "CharacterCount": "super-ops-TextField__CharacterCount_163be",
+  "AlignFieldBottom": "super-ops-TextField__AlignFieldBottom_9rm8m",
+  "ClearButton": "super-ops-TextField__ClearButton_b7wzn",
+  "Hidden": "super-ops-TextField__Hidden_riqid",
+  "Spinner": "super-ops-TextField__Spinner_mzr5w",
+  "SpinnerIcon": "super-ops-TextField__SpinnerIcon_185nu",
+  "Resizer": "super-ops-TextField__Resizer_mlqsu",
+  "DummyInput": "super-ops-TextField__DummyInput_1u3lq",
+  "Segment": "super-ops-TextField__Segment_xdd2a",
+  "monospaced": "super-ops-TextField--monospaced_2esgp"
+};
+
+export { styles as default };

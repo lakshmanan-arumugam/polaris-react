@@ -1,0 +1,8 @@
+import './InlineError.css';
+
+var styles = {
+  "InlineError": "super-ops-InlineError_1g623",
+  "Icon": "super-ops-InlineError__Icon_yj27d"
+};
+
+export { styles as default };

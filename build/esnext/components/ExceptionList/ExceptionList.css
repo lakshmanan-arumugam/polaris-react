@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.super-ops-ExceptionList_1wvyn { margin: 0; padding: 0; list-style: none; }
+
+.super-ops-ExceptionList__Item_yiyol { position: relative; padding-left: 1.5rem; color: var(--p-text-subdued); }
+
+.super-ops-ExceptionList__Item_yiyol + .super-ops-ExceptionList__Item_yiyol { margin-top: 0.25rem; }
+
+.super-ops-ExceptionList__Icon_yj27d { position: absolute; top: 0; left: 0; display: flex; align-items: center; justify-content: center; min-width: 1.25rem; height: 1.25rem; margin-right: 0.25rem; }
+
+.super-ops-ExceptionList__Icon_yj27d svg { fill: var(--p-icon-subdued); }
+
+.super-ops-ExceptionList--statusWarning_1x66d .super-ops-ExceptionList__Icon_yj27d svg { fill: var(--p-icon-warning); }
+
+.super-ops-ExceptionList--statusCritical_1iy3d .super-ops-ExceptionList__Icon_yj27d svg { fill: var(--p-icon-critical); }
+
+.super-ops-ExceptionList__Bullet_sw8s3 { width: 0.375rem; height: 0.375rem; border-radius: 100%; background-color: var(--p-icon-subdued); }
+
+.super-ops-ExceptionList--statusWarning_1x66d .super-ops-ExceptionList__Bullet_sw8s3 { background-color: var(--p-icon-warning); }
+
+.super-ops-ExceptionList--statusCritical_1iy3d .super-ops-ExceptionList__Bullet_sw8s3 { background-color: var(--p-icon-critical); }
+
+.super-ops-ExceptionList__Title_2qj8j + .super-ops-ExceptionList__Description_s1jgm::before { content: '–'; margin: 0 0.25rem; }
+
+.super-ops-ExceptionList--statusWarning_1x66d .super-ops-ExceptionList__Title_2qj8j, .super-ops-ExceptionList--statusCritical_1iy3d .super-ops-ExceptionList__Title_2qj8j { font-weight: 500; }
+
+.super-ops-ExceptionList--statusWarning_1x66d .super-ops-ExceptionList__Title_2qj8j { color: var(--p-text-warning); }
+
+.super-ops-ExceptionList--statusCritical_1iy3d .super-ops-ExceptionList__Title_2qj8j { color: var(--p-text-critical); }

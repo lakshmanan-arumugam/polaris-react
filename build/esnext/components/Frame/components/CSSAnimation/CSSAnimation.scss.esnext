@@ -1,0 +1,8 @@
+import './CSSAnimation.css';
+
+var styles = {
+  "startFade": "super-ops-Frame-CSSAnimation--startFade_1gu4x",
+  "endFade": "super-ops-Frame-CSSAnimation--endFade_1qzoi"
+};
+
+export { styles as default };

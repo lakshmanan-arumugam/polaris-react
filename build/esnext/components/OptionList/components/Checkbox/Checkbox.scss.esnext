@@ -1,0 +1,14 @@
+import './Checkbox.css';
+
+var styles = {
+  "Checkbox": "super-ops-OptionList-Checkbox_1d6zr",
+  "active": "super-ops-OptionList-Checkbox--active_jeq8y",
+  "Backdrop": "super-ops-OptionList-Checkbox__Backdrop_1x2i2",
+  "Input": "super-ops-OptionList-Checkbox__Input_30ock",
+  "keyFocused": "super-ops-OptionList-Checkbox--keyFocused_1aqee",
+  "Input-indeterminate": "super-ops-OptionList-Checkbox__Input--indeterminate_wtlpx",
+  "Icon": "super-ops-OptionList-Checkbox__Icon_yj27d",
+  "hover": "super-ops-OptionList-Checkbox--hover_37sww"
+};
+
+export { styles as default };

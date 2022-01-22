@@ -1,0 +1,32 @@
+import './DataTable.css';
+
+var styles = {
+  "DataTable": "super-ops-DataTable_1pikz",
+  "condensed": "super-ops-DataTable--condensed_b60cb",
+  "Navigation": "super-ops-DataTable__Navigation_1ajsq",
+  "Pip": "super-ops-DataTable__Pip_375sr",
+  "Pip-visible": "super-ops-DataTable__Pip--visible_1sajm",
+  "ScrollContainer": "super-ops-DataTable__ScrollContainer_lf5n1",
+  "Table": "super-ops-DataTable__Table_2qj3m",
+  "hoverable": "super-ops-DataTable--hoverable_1q7x3",
+  "Cell": "super-ops-DataTable__Cell_yixs7",
+  "TableRow": "super-ops-DataTable__TableRow_1a85o",
+  "Cell-firstColumn": "super-ops-DataTable__Cell--firstColumn_2o4gk",
+  "Cell-numeric": "super-ops-DataTable__Cell--numeric_1ld9f",
+  "Cell-truncated": "super-ops-DataTable__Cell--truncated_1chsk",
+  "Cell-header": "super-ops-DataTable__Cell--header_sv8he",
+  "Cell-sortable": "super-ops-DataTable__Cell--sortable_yf7r1",
+  "Cell-verticalAlignTop": "super-ops-DataTable__Cell--verticalAlignTop_1042b",
+  "Cell-verticalAlignBottom": "super-ops-DataTable__Cell--verticalAlignBottom_1dkyy",
+  "Cell-verticalAlignMiddle": "super-ops-DataTable__Cell--verticalAlignMiddle_mmoue",
+  "Cell-verticalAlignBaseline": "super-ops-DataTable__Cell--verticalAlignBaseline_sl0em",
+  "Icon": "super-ops-DataTable__Icon_yj27d",
+  "Heading": "super-ops-DataTable__Heading_1brcv",
+  "Heading-left": "super-ops-DataTable__Heading--left_au11s",
+  "Cell-sorted": "super-ops-DataTable__Cell--sorted_ea2kb",
+  "Cell-total": "super-ops-DataTable__Cell--total_99xdh",
+  "Cell-total-footer": "super-ops-DataTable--cellTotalFooter_1fqr9",
+  "Footer": "super-ops-DataTable__Footer_z4ij5"
+};
+
+export { styles as default };

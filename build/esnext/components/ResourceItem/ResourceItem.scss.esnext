@@ -1,0 +1,31 @@
+import './ResourceItem.css';
+
+var styles = {
+  "CheckboxWrapper": "super-ops-ResourceItem__CheckboxWrapper_11ah0",
+  "ResourceItem": "super-ops-ResourceItem_1uu16",
+  "persistActions": "super-ops-ResourceItem--persistActions_1uj4i",
+  "Actions": "super-ops-ResourceItem__Actions_17m67",
+  "ItemWrapper": "super-ops-ResourceItem__ItemWrapper_1kbav",
+  "focusedInner": "super-ops-ResourceItem--focusedInner_426pi",
+  "focused": "super-ops-ResourceItem--focused_17w4h",
+  "selected": "super-ops-ResourceItem--selected_mijeo",
+  "Link": "super-ops-ResourceItem__Link_yj5sy",
+  "Button": "super-ops-ResourceItem__Button_r99lw",
+  "Container": "super-ops-ResourceItem__Container_13mbo",
+  "alignmentLeading": "super-ops-ResourceItem--alignmentLeading_1pu7t",
+  "alignmentTrailing": "super-ops-ResourceItem--alignmentTrailing_cp27m",
+  "alignmentCenter": "super-ops-ResourceItem--alignmentCenter_1rtaw",
+  "alignmentFill": "super-ops-ResourceItem--alignmentFill_m3d4l",
+  "alignmentBaseline": "super-ops-ResourceItem--alignmentBaseline_aupj5",
+  "Owned": "super-ops-ResourceItem__Owned_2ppue",
+  "OwnedNoMedia": "super-ops-ResourceItem__OwnedNoMedia_19z6h",
+  "Handle": "super-ops-ResourceItem__Handle_ja6k3",
+  "selectMode": "super-ops-ResourceItem--selectMode_4098j",
+  "selectable": "super-ops-ResourceItem--selectable_1tkx2",
+  "Media": "super-ops-ResourceItem__Media_2t8qq",
+  "Content": "super-ops-ResourceItem__Content_xd1mk",
+  "Disclosure": "super-ops-ResourceItem__Disclosure_yr3nn",
+  "ListItem": "super-ops-ResourceItem__ListItem_wxd2m"
+};
+
+export { styles as default };

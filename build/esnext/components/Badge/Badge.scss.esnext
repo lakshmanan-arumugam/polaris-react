@@ -1,0 +1,19 @@
+import './Badge.css';
+
+var styles = {
+  "Badge": "super-ops-Badge_2qgie",
+  "sizeSmall": "super-ops-Badge--sizeSmall_7647q",
+  "statusSuccess": "super-ops-Badge--statusSuccess_pc5rl",
+  "statusInfo": "super-ops-Badge--statusInfo_knr66",
+  "statusAttention": "super-ops-Badge--statusAttention_i61kn",
+  "statusWarning": "super-ops-Badge--statusWarning_1x66d",
+  "statusCritical": "super-ops-Badge--statusCritical_1iy3d",
+  "statusNew": "super-ops-Badge--statusNew_cj8gz",
+  "Pip": "super-ops-Badge__Pip_375sr",
+  "progressIncomplete": "super-ops-Badge--progressIncomplete_1jg92",
+  "progressPartiallyComplete": "super-ops-Badge--progressPartiallyComplete_11p0t",
+  "progressComplete": "super-ops-Badge--progressComplete_189p5",
+  "withinFilter": "super-ops-Badge--withinFilter_11dcy"
+};
+
+export { styles as default };

@@ -1,0 +1,19 @@
+.super-ops-Header-Title_2qj8j { word-wrap: break-word; word-break: break-word; overflow-wrap: break-word; font-weight: 600; font-size: 1.5rem; line-height: 1.75rem; }
+
+@media (min-width: 40em) { .super-ops-Header-Title_2qj8j { font-size: 1.25rem; } }
+
+.super-ops-Header-Title__SubTitle_1j5vz { margin-top: 0.5rem; color: var(--p-text-subdued); }
+
+.super-ops-Header-Title__SubTitle_1j5vz.super-ops-Header-Title__SubtitleCompact_1fq2b { margin-top: 0; }
+
+.super-ops-Header-Title--hasThumbnail_1b6zi { display: grid; grid-gap: 1rem; grid-template-columns: auto 1fr; }
+
+.super-ops-Header-Title--hasThumbnail_1b6zi .super-ops-Header-Title__TitleAndSubtitleWrapper_40sxf { display: flex; flex-direction: column; justify-content: center; }
+
+.super-ops-Header-Title__TitleWithMetadataWrapper_pdqv7 { display: flex; flex-wrap: wrap; align-items: center; }
+
+.super-ops-Header-Title__TitleWithMetadataWrapper_pdqv7 .super-ops-Header-Title_2qj8j { display: inline; margin-right: 0.5rem; }
+
+.super-ops-Header-Title__TitleWithMetadataWrapper_pdqv7 .super-ops-Header-Title_2qj8j > * { display: inline; }
+
+.super-ops-Header-Title__TitleWithMetadataWrapper_pdqv7 .super-ops-Header-Title__TitleMetadata_19y17 { margin-top: 0; vertical-align: bottom; }

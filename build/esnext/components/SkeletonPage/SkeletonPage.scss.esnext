@@ -1,0 +1,19 @@
+import './SkeletonPage.css';
+
+var styles = {
+  "Page": "super-ops-SkeletonPage__Page_yisnh",
+  "fullWidth": "super-ops-SkeletonPage--fullWidth_zyvh4",
+  "narrowWidth": "super-ops-SkeletonPage--narrowWidth_yaeah",
+  "Content": "super-ops-SkeletonPage__Content_xd1mk",
+  "Header": "super-ops-SkeletonPage__Header_z4uwg",
+  "BreadcrumbAction": "super-ops-SkeletonPage__BreadcrumbAction_jsha0",
+  "TitleAndPrimaryAction": "super-ops-SkeletonPage__TitleAndPrimaryAction_128cy",
+  "TitleWrapper": "super-ops-SkeletonPage__TitleWrapper_bejfn",
+  "Title": "super-ops-SkeletonPage__Title_2qj8j",
+  "SkeletonTitle": "super-ops-SkeletonPage__SkeletonTitle_7v6f2",
+  "PrimaryAction": "super-ops-SkeletonPage__PrimaryAction_eeemy",
+  "Actions": "super-ops-SkeletonPage__Actions_17m67",
+  "Action": "super-ops-SkeletonPage__Action_r96cs"
+};
+
+export { styles as default };

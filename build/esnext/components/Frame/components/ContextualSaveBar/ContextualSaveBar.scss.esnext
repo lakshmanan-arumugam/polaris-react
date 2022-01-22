@@ -1,0 +1,14 @@
+import './ContextualSaveBar.css';
+
+var styles = {
+  "ContextualSaveBar": "super-ops-Frame-ContextualSaveBar_14m7v",
+  "LogoContainer": "super-ops-Frame-ContextualSaveBar__LogoContainer_szav1",
+  "ContextControl": "super-ops-Frame-ContextualSaveBar__ContextControl_3di0f",
+  "Message": "super-ops-Frame-ContextualSaveBar__Message_1u7n0",
+  "Contents": "super-ops-Frame-ContextualSaveBar__Contents_1u1wn",
+  "fullWidth": "super-ops-Frame-ContextualSaveBar--fullWidth_zyvh4",
+  "ActionContainer": "super-ops-Frame-ContextualSaveBar__ActionContainer_hk0rr",
+  "Action": "super-ops-Frame-ContextualSaveBar__Action_r96cs"
+};
+
+export { styles as default };

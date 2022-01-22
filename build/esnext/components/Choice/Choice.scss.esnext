@@ -1,0 +1,13 @@
+import './Choice.css';
+
+var styles = {
+  "Choice": "super-ops-Choice_j5gzq",
+  "labelHidden": "super-ops-Choice--labelHidden_14tn9",
+  "Label": "super-ops-Choice__Label_2vd36",
+  "Control": "super-ops-Choice__Control_1u8vs",
+  "disabled": "super-ops-Choice--disabled_hcuh9",
+  "Descriptions": "super-ops-Choice__Descriptions_pp5ln",
+  "HelpText": "super-ops-Choice__HelpText_8qj1a"
+};
+
+export { styles as default };

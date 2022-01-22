@@ -1,0 +1,39 @@
+import './Navigation.css';
+
+var styles = {
+  "Navigation": "super-ops-Navigation_1ajsq",
+  "UserMenu": "super-ops-Navigation__UserMenu_1n4r0",
+  "ContextControl": "super-ops-Navigation__ContextControl_3di0f",
+  "PrimaryNavigation": "super-ops-Navigation__PrimaryNavigation_1i4zc",
+  "LogoContainer": "super-ops-Navigation__LogoContainer_szav1",
+  "Logo": "super-ops-Navigation__Logo_yj38q",
+  "LogoLink": "super-ops-Navigation__LogoLink_eekya",
+  "Item": "super-ops-Navigation__Item_yiyol",
+  "keyFocused": "super-ops-Navigation--keyFocused_1aqee",
+  "Item-selected": "super-ops-Navigation__Item--selected_13f25",
+  "Item-disabled": "super-ops-Navigation__Item--disabled_1is1z",
+  "Icon": "super-ops-Navigation__Icon_yj27d",
+  "Badge": "super-ops-Navigation__Badge_2qgie",
+  "subNavigationActive": "super-ops-Navigation--subNavigationActive_e2t9x",
+  "ExternalIcon": "super-ops-Navigation__ExternalIcon_klfcs",
+  "ListItem": "super-ops-Navigation__ListItem_wxd2m",
+  "RollupSection": "super-ops-Navigation__RollupSection_4tmbw",
+  "SecondaryNavigation": "super-ops-Navigation__SecondaryNavigation_na5at",
+  "ListItem-hasAction": "super-ops-Navigation__ListItem--hasAction_11n18",
+  "ItemWrapper": "super-ops-Navigation__ItemWrapper_1kbav",
+  "Text": "super-ops-Navigation__Text_yj3uv",
+  "SecondaryAction": "super-ops-Navigation__SecondaryAction_1dl4i",
+  "isExpanded": "super-ops-Navigation--isExpanded_nh91q",
+  "List": "super-ops-Navigation__List_yj3nl",
+  "SecondaryNavigation-noIcon": "super-ops-Navigation__SecondaryNavigation--noIcon_ltg5q",
+  "Section": "super-ops-Navigation__Section_1b1h1",
+  "Section-fill": "super-ops-Navigation__Section--fill_kzgyz",
+  "Section-withSeparator": "super-ops-Navigation__Section--withSeparator_3lzp0",
+  "SectionHeading": "super-ops-Navigation__SectionHeading_1h851",
+  "Action": "super-ops-Navigation__Action_r96cs",
+  "RollupToggle": "super-ops-Navigation__RollupToggle_ccwyq",
+  "Indicator": "super-ops-Navigation__Indicator_dw7mr",
+  "fade-in": "super-ops-Navigation__fade--in_1b5b2"
+};
+
+export { styles as default };

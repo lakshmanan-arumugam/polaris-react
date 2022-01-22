@@ -1,0 +1,18 @@
+import './DropZone.css';
+
+var styles = {
+  "DropZone": "super-ops-DropZone_1ehhx",
+  "focused": "super-ops-DropZone--focused_17w4h",
+  "hasOutline": "super-ops-DropZone--hasOutline_1z0fh",
+  "isDisabled": "super-ops-DropZone--isDisabled_7e21n",
+  "isDragging": "super-ops-DropZone--isDragging_yvz0y",
+  "sizeLarge": "super-ops-DropZone--sizeLarge_61dxo",
+  "sizeMedium": "super-ops-DropZone--sizeMedium_5f35p",
+  "sizeSmall": "super-ops-DropZone--sizeSmall_7647q",
+  "measuring": "super-ops-DropZone--measuring_wb2tw",
+  "Container": "super-ops-DropZone__Container_13mbo",
+  "Overlay": "super-ops-DropZone__Overlay_ib7rj",
+  "hasError": "super-ops-DropZone--hasError_7q9ec"
+};
+
+export { styles as default };

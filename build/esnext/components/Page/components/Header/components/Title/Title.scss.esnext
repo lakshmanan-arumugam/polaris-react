@@ -1,0 +1,13 @@
+import './Title.css';
+
+var styles = {
+  "Title": "super-ops-Header-Title_2qj8j",
+  "SubTitle": "super-ops-Header-Title__SubTitle_1j5vz",
+  "SubtitleCompact": "super-ops-Header-Title__SubtitleCompact_1fq2b",
+  "hasThumbnail": "super-ops-Header-Title--hasThumbnail_1b6zi",
+  "TitleAndSubtitleWrapper": "super-ops-Header-Title__TitleAndSubtitleWrapper_40sxf",
+  "TitleWithMetadataWrapper": "super-ops-Header-Title__TitleWithMetadataWrapper_pdqv7",
+  "TitleMetadata": "super-ops-Header-Title__TitleMetadata_19y17"
+};
+
+export { styles as default };

@@ -1,0 +1,7 @@
+import './ScrollContainer.css';
+
+var styles = {
+  "ScrollContainer": "super-ops-IndexTable-ScrollContainer_lf5n1"
+};
+
+export { styles as default };

@@ -1,0 +1,16 @@
+import './Tag.css';
+
+var styles = {
+  "Tag": "super-ops-Tag_375hg",
+  "disabled": "super-ops-Tag--disabled_hcuh9",
+  "clickable": "super-ops-Tag--clickable_1prth",
+  "removable": "super-ops-Tag--removable_1q527",
+  "linkable": "super-ops-Tag--linkable_1fdmd",
+  "TagText": "super-ops-Tag__TagText_lsfh6",
+  "Button": "super-ops-Tag__Button_r99lw",
+  "segmented": "super-ops-Tag--segmented_150jh",
+  "Link": "super-ops-Tag__Link_yj5sy",
+  "LinkText": "super-ops-Tag__LinkText_8qt8f"
+};
+
+export { styles as default };

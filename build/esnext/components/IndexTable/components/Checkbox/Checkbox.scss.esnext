@@ -1,0 +1,10 @@
+import './Checkbox.css';
+
+var styles = {
+  "TableCellContentContainer": "super-ops-IndexTable-Checkbox__TableCellContentContainer_1pnud",
+  "Wrapper": "super-ops-IndexTable-Checkbox__Wrapper_mkrm3",
+  "expanded": "super-ops-IndexTable-Checkbox--expanded_cex59",
+  "condensed": "super-ops-IndexTable-Checkbox--condensed_b60cb"
+};
+
+export { styles as default };

@@ -1,0 +1,18 @@
+import './EmptyState.css';
+
+var styles = {
+  "EmptyState": "super-ops-EmptyState_z7e24",
+  "Section": "super-ops-EmptyState__Section_1b1h1",
+  "Details": "super-ops-EmptyState__Details_1bdkj",
+  "Image": "super-ops-EmptyState__Image_2qgms",
+  "ImageContainer": "super-ops-EmptyState__ImageContainer_wrfol",
+  "DetailsContainer": "super-ops-EmptyState__DetailsContainer_1a2i4",
+  "withinContentContainer": "super-ops-EmptyState--withinContentContainer_1uwmg",
+  "Content": "super-ops-EmptyState__Content_xd1mk",
+  "imageContained": "super-ops-EmptyState--imageContained_z6t0k",
+  "fullWidth": "super-ops-EmptyState--fullWidth_zyvh4",
+  "Actions": "super-ops-EmptyState__Actions_17m67",
+  "FooterContent": "super-ops-EmptyState__FooterContent_pymp5"
+};
+
+export { styles as default };

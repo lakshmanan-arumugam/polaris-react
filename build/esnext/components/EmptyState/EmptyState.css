@@ -1,0 +1,55 @@
+.super-ops-EmptyState_z7e24 { display: flex; flex-direction: column; align-items: center; width: 100%; margin: 0 auto; padding: 1.25rem 0; padding-top: 1.25rem; padding-bottom: 3.75rem; max-width: 62.375rem; }
+
+.super-ops-EmptyState__Section_1b1h1 { display: flex; flex-direction: column-reverse; flex: 1 1 auto; width: 100%; align-items: center; justify-content: center; }
+
+@media (max-width: 48.0625em) and (min-width: 46.5em), (min-width: 61.5em) { [data-has-navigation] .super-ops-EmptyState__Section_1b1h1 { left: 1.25rem; } }
+
+@media (min-width: 46.5em) { .super-ops-EmptyState__Section_1b1h1 { left: 1.25rem; } }
+
+.super-ops-EmptyState__Details_1bdkj { display: flex; text-align: center; flex-direction: column; align-items: center; }
+
+@media (max-width: 48.0625em) and (min-width: 30.625em), (min-width: 45.625em) { [data-has-navigation] .super-ops-EmptyState__Details_1bdkj { max-width: 25rem; } }
+
+@media (min-width: 30.625em) { .super-ops-EmptyState__Details_1bdkj { max-width: 25rem; } }
+
+.super-ops-EmptyState__Image_2qgms { margin: 0; width: initial; }
+
+.super-ops-EmptyState__ImageContainer_wrfol, .super-ops-EmptyState__DetailsContainer_1a2i4 { flex: 1 1 auto; padding: 0; margin: 0; }
+
+@media (max-width: 48.0625em) and (min-width: 46.5em), (min-width: 61.5em) { [data-has-navigation] .super-ops-EmptyState__ImageContainer_wrfol, [data-has-navigation] .super-ops-EmptyState__DetailsContainer_1a2i4 { flex-basis: 50%; } }
+
+@media (min-width: 46.5em) { .super-ops-EmptyState__ImageContainer_wrfol, .super-ops-EmptyState__DetailsContainer_1a2i4 { flex-basis: 50%; } }
+
+@media (max-width: 30.625em), (min-width: 48.0625em) and (max-width: 47.125em) { [data-has-navigation] .super-ops-EmptyState__ImageContainer_wrfol, [data-has-navigation] .super-ops-EmptyState__DetailsContainer_1a2i4 { overflow-x: hidden; } }
+
+@media (max-width: 30.625em) { .super-ops-EmptyState__ImageContainer_wrfol, .super-ops-EmptyState__DetailsContainer_1a2i4 { overflow-x: hidden; } }
+
+.super-ops-EmptyState--withinContentContainer_1uwmg { margin: 0 auto; padding-top: 1.25rem; padding-bottom: 3.75rem; }
+
+.super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Section_1b1h1 { position: unset; flex-direction: column-reverse; align-items: center; justify-content: center; }
+
+.super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Details_1bdkj { display: flex; text-align: center; flex-direction: column; align-items: center; }
+
+@media (max-width: 48.0625em) and (min-width: 30.625em), (min-width: 45.625em) { [data-has-navigation] .super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Details_1bdkj { max-width: 25rem; } }
+
+@media (min-width: 30.625em) { .super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Details_1bdkj { max-width: 25rem; } }
+
+.super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Image_2qgms { margin: 0; width: initial; }
+
+.super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Content_xd1mk { font-size: 0.9375rem; font-weight: 400; line-height: 1.25rem; text-transform: initial; letter-spacing: initial; padding-bottom: 0.5rem; }
+
+@media (min-width: 40em) { .super-ops-EmptyState--withinContentContainer_1uwmg .super-ops-EmptyState__Content_xd1mk { font-size: 0.875rem; } }
+
+@media (max-width: 48.0625em) and (min-width: 46.5em), (min-width: 61.5em) { [data-has-navigation] .super-ops-EmptyState--imageContained_z6t0k .super-ops-EmptyState__Image_2qgms { position: initial; width: 100%; } }
+
+@media (min-width: 46.5em) { .super-ops-EmptyState--imageContained_z6t0k .super-ops-EmptyState__Image_2qgms { position: initial; width: 100%; } }
+
+.super-ops-EmptyState--fullWidth_zyvh4 .super-ops-EmptyState__Details_1bdkj { max-width: 100%; }
+
+.super-ops-EmptyState__Content_xd1mk { font-size: 0.9375rem; font-weight: 400; line-height: 1.25rem; text-transform: initial; letter-spacing: initial; color: var(--p-text-subdued); padding-bottom: 0.5rem; }
+
+@media (min-width: 40em) { .super-ops-EmptyState__Content_xd1mk { font-size: 0.875rem; } }
+
+.super-ops-EmptyState__Actions_17m67 { margin-top: 1rem; }
+
+.super-ops-EmptyState__FooterContent_pymp5 { color: var(--p-text-subdued); margin-top: 1rem; }

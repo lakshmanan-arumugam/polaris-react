@@ -1,0 +1,16 @@
+import './SingleThumb.css';
+
+var styles = {
+  "SingleThumb": "super-ops-RangeSlider-SingleThumb_5z868",
+  "disabled": "super-ops-RangeSlider-SingleThumb--disabled_hcuh9",
+  "InputWrapper": "super-ops-RangeSlider-SingleThumb__InputWrapper_ayku3",
+  "Prefix": "super-ops-RangeSlider-SingleThumb__Prefix_10fbz",
+  "Suffix": "super-ops-RangeSlider-SingleThumb__Suffix_10fbu",
+  "Input": "super-ops-RangeSlider-SingleThumb__Input_30ock",
+  "error": "super-ops-RangeSlider-SingleThumb--error_37uk1",
+  "Output": "super-ops-RangeSlider-SingleThumb__Output_sl6zf",
+  "OutputBubble": "super-ops-RangeSlider-SingleThumb__OutputBubble_ji63m",
+  "OutputText": "super-ops-RangeSlider-SingleThumb__OutputText_1y9bc"
+};
+
+export { styles as default };

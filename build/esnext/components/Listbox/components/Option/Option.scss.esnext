@@ -1,0 +1,8 @@
+import './Option.css';
+
+var styles = {
+  "Option": "super-ops-Listbox-Option_r96cc",
+  "divider": "super-ops-Listbox-Option--divider_myoiu"
+};
+
+export { styles as default };

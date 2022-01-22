@@ -1,0 +1,11 @@
+import './DisplayText.css';
+
+var styles = {
+  "DisplayText": "super-ops-DisplayText_1u0t8",
+  "sizeSmall": "super-ops-DisplayText--sizeSmall_7647q",
+  "sizeMedium": "super-ops-DisplayText--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-DisplayText--sizeLarge_61dxo",
+  "sizeExtraLarge": "super-ops-DisplayText--sizeExtraLarge_1akox"
+};
+
+export { styles as default };

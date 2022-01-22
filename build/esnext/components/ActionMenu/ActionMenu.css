@@ -1,0 +1,3 @@
+.super-ops-ActionMenu_1hlnt { width: 100%; display: flex; justify-content: flex-end; }
+
+@media print { .super-ops-ActionMenu_1hlnt { display: none !important; } }

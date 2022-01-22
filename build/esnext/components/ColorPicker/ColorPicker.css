@@ -1,0 +1,27 @@
+.super-ops-ColorPicker_1ft7g { -webkit-user-select: none; user-select: none; display: flex; }
+
+.super-ops-ColorPicker__MainColor_1dlup { background: repeating-conic-gradient(var(--p-surface) 0% 25%, var(--p-surface-neutral-subdued) 0% 50%) 50% / 1rem 1rem; position: relative; overflow: hidden; height: 10rem; width: 10rem; border-radius: var(--p-border-radius-base); cursor: pointer; }
+
+.super-ops-ColorPicker--fullWidth_zyvh4 .super-ops-ColorPicker__MainColor_1dlup { width: auto; flex-grow: 1; }
+
+.super-ops-ColorPicker__MainColor_1dlup .super-ops-ColorPicker__Dragger_mz3rx { right: 0.5625rem; margin: 0; }
+
+.super-ops-ColorPicker__MainColor_1dlup .super-ops-ColorPicker__ColorLayer_1ouio { border-radius: var(--p-border-radius-base); }
+
+.super-ops-ColorPicker__MainColor_1dlup::after, .super-ops-ColorPicker__MainColor_1dlup::before { content: ''; position: absolute; z-index: 20; top: 0; left: 0; display: block; height: 100%; width: 100%; pointer-events: none; border-radius: var(--p-border-radius-base); }
+
+.super-ops-ColorPicker__MainColor_1dlup::before { background: linear-gradient(to right, white, transparent); }
+
+.super-ops-ColorPicker__MainColor_1dlup::after { background-image: linear-gradient(to top, black, transparent); }
+
+.super-ops-ColorPicker__Dragger_mz3rx { position: relative; z-index: 30; bottom: 0.5625rem; transform: none; height: 1.125rem; width: 1.125rem; margin: 0 auto; -webkit-backface-visibility: hidden; backface-visibility: hidden; will-change: transform; background: transparent; border: var(--p-border-radius-base) solid var(--p-surface); border-radius: 50%; pointer-events: none; }
+
+.super-ops-ColorPicker__HuePicker_xwdsx, .super-ops-ColorPicker__AlphaPicker_1fh74 { position: relative; overflow: hidden; height: 10rem; width: 1.5rem; margin-left: 0.5rem; border-width: var(--p-border-radius-base); border-radius: 5rem; }
+
+.super-ops-ColorPicker__HuePicker_xwdsx { background-image: linear-gradient(to bottom, red 1.125rem, yellow, lime, cyan, blue, magenta, red 8.875rem); }
+
+.super-ops-ColorPicker__AlphaPicker_1fh74 { background: repeating-conic-gradient(var(--p-surface) 0% 25%, var(--p-surface-neutral-subdued) 0% 50%) 50% / 1rem 1rem; }
+
+.super-ops-ColorPicker__ColorLayer_1ouio { position: absolute; z-index: 10; top: 0; left: 0; height: 100%; width: 100%; pointer-events: none; }
+
+.super-ops-ColorPicker__Slidable_1fdsv { height: 100%; width: 100%; cursor: pointer; }

@@ -1,0 +1,25 @@
+import './Frame.css';
+
+var styles = {
+  "Frame": "super-ops-Frame_2qi9y",
+  "Navigation": "super-ops-Frame__Navigation_1ajsq",
+  "hasTopBar": "super-ops-Frame--hasTopBar_1162r",
+  "Navigation-enter": "super-ops-Frame__Navigation--enter_145tn",
+  "Navigation-enterActive": "super-ops-Frame__Navigation--enterActive_sj3gh",
+  "Navigation-exit": "super-ops-Frame__Navigation--exit_t2g9y",
+  "Navigation-exitActive": "super-ops-Frame__Navigation--exitActive_1q56k",
+  "NavigationDismiss": "super-ops-Frame__NavigationDismiss_s8t2w",
+  "Navigation-visible": "super-ops-Frame__Navigation--visible_8qe5o",
+  "TopBar": "super-ops-Frame__TopBar_z6tf9",
+  "ContextualSaveBar": "super-ops-Frame__ContextualSaveBar_14m7v",
+  "Main": "super-ops-Frame__Main_yj28s",
+  "hasNav": "super-ops-Frame--hasNav_wlvjn",
+  "Content": "super-ops-Frame__Content_xd1mk",
+  "GlobalRibbonContainer": "super-ops-Frame__GlobalRibbonContainer_1kirc",
+  "LoadingBar": "super-ops-Frame__LoadingBar_rnw3c",
+  "Skip": "super-ops-Frame__Skip_yj7bt",
+  "focused": "super-ops-Frame--focused_17w4h",
+  "pressed": "super-ops-Frame--pressed_17w8v"
+};
+
+export { styles as default };

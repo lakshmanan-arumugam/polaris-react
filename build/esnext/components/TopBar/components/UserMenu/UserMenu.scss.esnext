@@ -1,0 +1,9 @@
+import './UserMenu.css';
+
+var styles = {
+  "Details": "super-ops-TopBar-UserMenu__Details_1bdkj",
+  "Name": "super-ops-TopBar-UserMenu__Name_yisp9",
+  "Detail": "super-ops-TopBar-UserMenu__Detail_nhg1f"
+};
+
+export { styles as default };

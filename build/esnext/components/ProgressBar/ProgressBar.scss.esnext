@@ -1,0 +1,19 @@
+import './ProgressBar.css';
+
+var styles = {
+  "ProgressBar": "super-ops-ProgressBar_17609",
+  "sizeSmall": "super-ops-ProgressBar--sizeSmall_7647q",
+  "sizeMedium": "super-ops-ProgressBar--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-ProgressBar--sizeLarge_61dxo",
+  "colorHighlight": "super-ops-ProgressBar--colorHighlight_2qv4t",
+  "colorPrimary": "super-ops-ProgressBar--colorPrimary_4ruww",
+  "colorSuccess": "super-ops-ProgressBar--colorSuccess_k0sue",
+  "colorCritical": "super-ops-ProgressBar--colorCritical_glskc",
+  "Indicator": "super-ops-ProgressBar__Indicator_dw7mr",
+  "Animated": "super-ops-ProgressBar__Animated_mk149",
+  "fillup": "super-ops-ProgressBar--fillup_v0nyp",
+  "Progress": "super-ops-ProgressBar__Progress_ixe53",
+  "Label": "super-ops-ProgressBar__Label_2vd36"
+};
+
+export { styles as default };

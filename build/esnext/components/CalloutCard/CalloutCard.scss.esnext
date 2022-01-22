@@ -1,0 +1,15 @@
+import './CalloutCard.css';
+
+var styles = {
+  "CalloutCard": "super-ops-CalloutCard_ttsf2",
+  "Image": "super-ops-CalloutCard__Image_2qgms",
+  "DismissImage": "super-ops-CalloutCard__DismissImage_1dcw4",
+  "Content": "super-ops-CalloutCard__Content_xd1mk",
+  "Title": "super-ops-CalloutCard__Title_2qj8j",
+  "Buttons": "super-ops-CalloutCard__Buttons_17lkt",
+  "Container": "super-ops-CalloutCard__Container_13mbo",
+  "Dismiss": "super-ops-CalloutCard__Dismiss_z8d6a",
+  "hasDismiss": "super-ops-CalloutCard--hasDismiss_kf0ua"
+};
+
+export { styles as default };

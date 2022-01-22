@@ -1,0 +1,8 @@
+import './AccountConnection.css';
+
+var styles = {
+  "TermsOfService": "super-ops-AccountConnection__TermsOfService_4v0wj",
+  "Content": "super-ops-AccountConnection__Content_xd1mk"
+};
+
+export { styles as default };

@@ -1,0 +1,21 @@
+.super-ops-SkeletonDisplayText__DisplayText_1u0t8 { max-width: 7.5rem; position: relative; }
+
+.super-ops-SkeletonDisplayText__DisplayText_1u0t8::after { content: ''; position: absolute; top: 0; right: 0; bottom: 0; left: 0; display: block; background-color: var(--p-surface-neutral); border-radius: 0.1875rem; }
+
+@media screen and (-ms-high-contrast: active) { .super-ops-SkeletonDisplayText__DisplayText_1u0t8::after { background-color: grayText; } }
+
+.super-ops-SkeletonDisplayText--sizeSmall_7647q { height: 1.5rem; }
+
+@media (min-width: 40em) { .super-ops-SkeletonDisplayText--sizeSmall_7647q { height: 1.75rem; } }
+
+.super-ops-SkeletonDisplayText--sizeMedium_5f35p { height: 1.75rem; }
+
+@media (min-width: 40em) { .super-ops-SkeletonDisplayText--sizeMedium_5f35p { height: 2rem; } }
+
+.super-ops-SkeletonDisplayText--sizeLarge_61dxo { height: 1.75rem; }
+
+@media (min-width: 40em) { .super-ops-SkeletonDisplayText--sizeLarge_61dxo { height: 2rem; } }
+
+.super-ops-SkeletonDisplayText--sizeExtraLarge_1akox { height: 2.25rem; }
+
+@media (min-width: 40em) { .super-ops-SkeletonDisplayText--sizeExtraLarge_1akox { height: 2.75rem; } }

@@ -1,0 +1,7 @@
+.super-ops-Modal-Header_z4uwg { display: flex; align-items: flex-start; flex-shrink: 0; padding: 1rem 1.25rem; border-bottom: 0.0625rem solid var(--p-divider); }
+
+.super-ops-Modal-Header--titleHidden_14zrw { position: absolute; right: 0.5rem; z-index: 1; }
+
+.super-ops-Modal-Header--titleHidden_14zrw .super-ops-Modal-Header__Title_2qj8j { display: none; }
+
+.super-ops-Modal-Header__Title_2qj8j { word-wrap: break-word; word-break: break-word; overflow-wrap: break-word; flex: 1 1; margin-top: 0.25rem; }

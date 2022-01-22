@@ -1,0 +1,16 @@
+import './MediaCard.css';
+
+var styles = {
+  "MediaCard": "super-ops-MediaCard_1viwr",
+  "portrait": "super-ops-MediaCard--portrait_gnxrv",
+  "MediaContainer": "super-ops-MediaCard__MediaContainer_wotws",
+  "sizeSmall": "super-ops-MediaCard--sizeSmall_7647q",
+  "InfoContainer": "super-ops-MediaCard__InfoContainer_szau8",
+  "Popover": "super-ops-MediaCard__Popover_mj4rb",
+  "Heading": "super-ops-MediaCard__Heading_1brcv",
+  "PrimaryAction": "super-ops-MediaCard__PrimaryAction_eeemy",
+  "SecondaryAction": "super-ops-MediaCard__SecondaryAction_1dl4i",
+  "ActionContainer": "super-ops-MediaCard__ActionContainer_hk0rr"
+};
+
+export { styles as default };

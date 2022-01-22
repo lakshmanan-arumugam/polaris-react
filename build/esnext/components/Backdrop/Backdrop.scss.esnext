@@ -1,0 +1,10 @@
+import './Backdrop.css';
+
+var styles = {
+  "Backdrop": "super-ops-Backdrop_1x2i2",
+  "fade-in": "super-ops-Backdrop__fade--in_1b5b2",
+  "transparent": "super-ops-Backdrop--transparent_19sk8",
+  "belowNavigation": "super-ops-Backdrop--belowNavigation_1y5t0"
+};
+
+export { styles as default };

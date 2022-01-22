@@ -1,0 +1,13 @@
+import './TextOption.css';
+
+var styles = {
+  "TextOption": "super-ops-Listbox-TextOption_yqf1e",
+  "allowMultiple": "super-ops-Listbox-TextOption--allowMultiple_zywv7",
+  "isAction": "super-ops-Listbox-TextOption--isAction_1op9y",
+  "disabled": "super-ops-Listbox-TextOption--disabled_hcuh9",
+  "selected": "super-ops-Listbox-TextOption--selected_mijeo",
+  "Content": "super-ops-Listbox-TextOption__Content_xd1mk",
+  "Checkbox": "super-ops-Listbox-TextOption__Checkbox_1d6zr"
+};
+
+export { styles as default };

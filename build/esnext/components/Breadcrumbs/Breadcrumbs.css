@@ -1,0 +1,25 @@
+.super-ops-Breadcrumbs__Breadcrumb_llsun { font-size: 0.9375rem; font-weight: 400; line-height: 1.25rem; text-transform: initial; letter-spacing: initial; color: var(--p-text-subdued); -webkit-appearance: none; appearance: none; margin: 0; padding: 0; background: none; border: none; font-size: inherit; line-height: inherit; color: inherit; cursor: pointer; position: relative; display: flex; align-items: center; justify-content: center; min-height: 2.25rem; min-width: 2.25rem; color: var(--p-text-subdued); text-decoration: none; margin: 0; padding: 0.125rem; border-radius: var(--p-border-radius-base); border: 0.0625rem solid var(--p-border-neutral-subdued); position: relative; }
+
+@media (min-width: 40em) { .super-ops-Breadcrumbs__Breadcrumb_llsun { font-size: 0.875rem; } }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:focus { outline: none; }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun::after { content: ''; position: absolute; z-index: 1; top: -0.125rem; right: -0.125rem; bottom: -0.125rem; left: -0.125rem; display: block; pointer-events: none; box-shadow: 0 0 0 -0.125rem var(--p-focused); transition: box-shadow 100ms var(--p-ease); border-radius: calc(var(--p-border-radius-base) + 0.0625rem); }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:hover { background-color: var(--p-surface-hovered); }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:active { background-color: var(--p-surface-pressed); }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:hover, .super-ops-Breadcrumbs__Breadcrumb_llsun:active { color: var(--p-text); text-decoration: none; }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:hover .super-ops-Breadcrumbs__Icon_yj27d svg, .super-ops-Breadcrumbs__Breadcrumb_llsun:active .super-ops-Breadcrumbs__Icon_yj27d svg { fill: var(--p-icon-pressed); }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:focus { outline: none; }
+
+.super-ops-Breadcrumbs__Breadcrumb_llsun:focus:not(:active)::after { box-shadow: 0 0 0 0.125rem var(--p-focused); outline: 0.0625rem solid transparent; }
+
+.super-ops-Breadcrumbs__Content_xd1mk { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; position: relative; }
+
+.super-ops-Breadcrumbs__Icon_yj27d { width: 1.25rem; height: 1.25rem; margin: -0.625rem 0 -0.625rem -0.5rem; margin: 0; }
+
+.super-ops-Breadcrumbs__Icon_yj27d svg { fill: var(--p-icon); }

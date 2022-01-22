@@ -1,0 +1,21 @@
+import './Avatar.css';
+
+var styles = {
+  "Avatar": "super-ops-Avatar_z763p",
+  "hidden": "super-ops-Avatar--hidden_riqie",
+  "sizeExtraSmall": "super-ops-Avatar--sizeExtraSmall_1twbb",
+  "sizeSmall": "super-ops-Avatar--sizeSmall_7647q",
+  "sizeMedium": "super-ops-Avatar--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-Avatar--sizeLarge_61dxo",
+  "styleOne": "super-ops-Avatar--styleOne_jtsnj",
+  "styleTwo": "super-ops-Avatar--styleTwo_15kyd",
+  "styleThree": "super-ops-Avatar--styleThree_1sohp",
+  "styleFour": "super-ops-Avatar--styleFour_16hgi",
+  "styleFive": "super-ops-Avatar--styleFive_dypl0",
+  "hasImage": "super-ops-Avatar--hasImage_1hz8x",
+  "Image": "super-ops-Avatar__Image_2qgms",
+  "Initials": "super-ops-Avatar__Initials_5s4f1",
+  "Svg": "super-ops-Avatar__Svg_375hu"
+};
+
+export { styles as default };

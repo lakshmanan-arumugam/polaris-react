@@ -1,0 +1,33 @@
+.super-ops-MediaCard_1viwr { height: 100%; width: 100%; display: flex; flex-flow: row wrap; }
+
+.super-ops-MediaCard_1viwr.super-ops-MediaCard--portrait_gnxrv { flex-flow: column nowrap; }
+
+@media (max-width: 50.25em) { .super-ops-MediaCard_1viwr { flex-flow: column nowrap; } }
+
+.super-ops-MediaCard__MediaContainer_wotws { overflow: hidden; border-top-left-radius: var(--p-border-radius-wide); border-top-right-radius: var(--p-border-radius-wide); }
+
+.super-ops-MediaCard__MediaContainer_wotws:not(.super-ops-MediaCard--portrait_gnxrv) { flex-basis: 40%; }
+
+.super-ops-MediaCard__MediaContainer_wotws:not(.super-ops-MediaCard--portrait_gnxrv).super-ops-MediaCard--sizeSmall_7647q { flex-basis: 33%; }
+
+@media (min-width: 50.25em) { .super-ops-MediaCard__MediaContainer_wotws:not(.super-ops-MediaCard--portrait_gnxrv) { border-top-right-radius: 0; border-top-left-radius: var(--p-border-radius-wide); border-bottom-left-radius: var(--p-border-radius-wide); } }
+
+.super-ops-MediaCard__InfoContainer_szau8 { position: relative; }
+
+.super-ops-MediaCard__InfoContainer_szau8:not(.super-ops-MediaCard--portrait_gnxrv) { flex-basis: 60%; }
+
+.super-ops-MediaCard__InfoContainer_szau8:not(.super-ops-MediaCard--portrait_gnxrv).super-ops-MediaCard--sizeSmall_7647q { flex-basis: 67%; }
+
+.super-ops-MediaCard__Popover_mj4rb { position: absolute; z-index: 400; top: 1rem; right: 1rem; }
+
+.super-ops-MediaCard__Heading_1brcv { margin-right: 2rem; }
+
+.super-ops-MediaCard__PrimaryAction_eeemy { margin-right: 0.5rem; }
+
+.super-ops-MediaCard__SecondaryAction_1dl4i { margin-left: -spacing(tight); }
+
+.super-ops-MediaCard__ActionContainer_hk0rr { padding-top: 0.5rem; }
+
+.super-ops-MediaCard__ActionContainer_hk0rr.super-ops-MediaCard--portrait_gnxrv { padding-top: 2rem; }
+
+@media (max-width: 50.25em) { .super-ops-MediaCard__ActionContainer_hk0rr { padding-top: 2rem; } }

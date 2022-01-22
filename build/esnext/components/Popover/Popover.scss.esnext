@@ -1,0 +1,23 @@
+import './Popover.css';
+
+var styles = {
+  "Popover": "super-ops-Popover_mj4rb",
+  "PopoverOverlay": "super-ops-Popover__PopoverOverlay_emiux",
+  "PopoverOverlay-entering": "super-ops-Popover__PopoverOverlay--entering_n4nyg",
+  "PopoverOverlay-open": "super-ops-Popover__PopoverOverlay--open_4ccww",
+  "PopoverOverlay-exiting": "super-ops-Popover__PopoverOverlay--exiting_1qydg",
+  "measuring": "super-ops-Popover--measuring_wb2tw",
+  "fullWidth": "super-ops-Popover--fullWidth_zyvh4",
+  "Content": "super-ops-Popover__Content_xd1mk",
+  "positionedAbove": "super-ops-Popover--positionedAbove_1f44z",
+  "Wrapper": "super-ops-Popover__Wrapper_mkrm3",
+  "Content-fullHeight": "super-ops-Popover__Content--fullHeight_cka7c",
+  "Content-fluidContent": "super-ops-Popover__Content--fluidContent_141kh",
+  "Pane": "super-ops-Popover__Pane_yisof",
+  "Pane-fixed": "super-ops-Popover__Pane--fixed_qp836",
+  "Section": "super-ops-Popover__Section_1b1h1",
+  "FocusTracker": "super-ops-Popover__FocusTracker_1y0x8",
+  "PopoverOverlay-hideOnPrint": "super-ops-Popover__PopoverOverlay--hideOnPrint_1e1e1"
+};
+
+export { styles as default };

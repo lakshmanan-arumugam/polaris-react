@@ -1,0 +1,10 @@
+import './SkeletonThumbnail.css';
+
+var styles = {
+  "SkeletonThumbnail": "super-ops-SkeletonThumbnail_u7qua",
+  "sizeSmall": "super-ops-SkeletonThumbnail--sizeSmall_7647q",
+  "sizeMedium": "super-ops-SkeletonThumbnail--sizeMedium_5f35p",
+  "sizeLarge": "super-ops-SkeletonThumbnail--sizeLarge_61dxo"
+};
+
+export { styles as default };

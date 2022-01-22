@@ -1,0 +1,13 @@
+.super-ops-ChoiceList_ygfuw { margin: 0; padding: 0; border: none; }
+
+.super-ops-ChoiceList--titleHidden_14zrw > .super-ops-ChoiceList__Title_2qj8j { position: absolute !important; width: 0.0625rem !important; height: 0.0625rem !important; margin: 0 !important; padding: 0 !important; overflow: hidden !important; -webkit-clip-path: inset(50%) !important; clip-path: inset(50%) !important; border: 0 !important; white-space: nowrap !important; }
+
+.super-ops-ChoiceList__Choices_15o76 { margin: 0; padding: 0; list-style: none; }
+
+.super-ops-ChoiceList__ChoiceChildren_1j4jt { margin-bottom: 0.5rem; padding-left: calc(0.5rem + var(--p-choice-size, 1rem)); }
+
+.super-ops-ChoiceList__ChoiceError_1g7rk { margin-top: 0.25rem; margin-bottom: 0.5rem; }
+
+.super-ops-ChoiceList__Title_2qj8j { font-size: 0.9375rem; font-weight: 400; line-height: 1.25rem; text-transform: initial; letter-spacing: initial; display: block; margin: 0 0 0.25rem; padding: 0; }
+
+@media (min-width: 40em) { .super-ops-ChoiceList__Title_2qj8j { font-size: 0.875rem; } }

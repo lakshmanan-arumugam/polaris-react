@@ -1,0 +1,14 @@
+import './SearchField.css';
+
+var styles = {
+  "SearchField": "super-ops-TopBar-SearchField_ek145",
+  "focused": "super-ops-TopBar-SearchField--focused_17w4h",
+  "Input": "super-ops-TopBar-SearchField__Input_30ock",
+  "Backdrop": "super-ops-TopBar-SearchField__Backdrop_1x2i2",
+  "BackdropShowFocusBorder": "super-ops-TopBar-SearchField__BackdropShowFocusBorder_171ix",
+  "Icon": "super-ops-TopBar-SearchField__Icon_yj27d",
+  "Clear": "super-ops-TopBar-SearchField__Clear_37wax",
+  "toLightBackground": "super-ops-TopBar-SearchField--toLightBackground_1azm0"
+};
+
+export { styles as default };

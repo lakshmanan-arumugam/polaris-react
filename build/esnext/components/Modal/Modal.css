@@ -1,0 +1,9 @@
+.super-ops-Modal__BodyWrapper_1kb1f { display: flex; flex-grow: 1; overflow-x: hidden; -webkit-overflow-scrolling: touch; }
+
+.super-ops-Modal__Body_yjdx1 { width: 100%; }
+
+.super-ops-Modal__IFrame_j9n24 { display: block; width: 38.75rem; max-width: 100vw; border: none; }
+
+@media (min-width: 48.0625em) { .super-ops-Modal__IFrame_j9n24 { max-width: 38.75rem; } }
+
+.super-ops-Modal__Spinner_mzr5w { margin: 1rem; text-align: center; }

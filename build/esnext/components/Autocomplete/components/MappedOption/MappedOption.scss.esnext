@@ -1,0 +1,10 @@
+import './MappedOption.css';
+
+var styles = {
+  "Content": "super-ops-Autocomplete-MappedOption__Content_xd1mk",
+  "Media": "super-ops-Autocomplete-MappedOption__Media_2t8qq",
+  "singleSelectionMedia": "super-ops-Autocomplete-MappedOption--singleSelectionMedia_1872h",
+  "disabledMedia": "super-ops-Autocomplete-MappedOption--disabledMedia_wfh7h"
+};
+
+export { styles as default };

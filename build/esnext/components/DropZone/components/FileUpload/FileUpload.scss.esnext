@@ -1,0 +1,14 @@
+import './FileUpload.css';
+
+var styles = {
+  "FileUpload": "super-ops-DropZone-FileUpload_1fbjx",
+  "large": "super-ops-DropZone-FileUpload--large_2qh0r",
+  "small": "super-ops-DropZone-FileUpload--small_2v637",
+  "Action": "super-ops-DropZone-FileUpload__Action_r96cs",
+  "disabled": "super-ops-DropZone-FileUpload--disabled_hcuh9",
+  "ActionTitle": "super-ops-DropZone-FileUpload__ActionTitle_e3cta",
+  "ActionTitle-disabled": "super-ops-DropZone-FileUpload__ActionTitle--disabled_1fqj9",
+  "ActionTitle-focused": "super-ops-DropZone-FileUpload__ActionTitle--focused_3671t"
+};
+
+export { styles as default };

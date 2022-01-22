@@ -1,0 +1,13 @@
+.super-ops-FormLayout_1wntl { margin-top: -1rem; margin-left: -1.25rem; }
+
+.super-ops-FormLayout__Title_2qj8j { margin-bottom: -0.5rem; padding: 1rem 1.25rem 0; }
+
+.super-ops-FormLayout__Items_38lvu { display: flex; flex-wrap: wrap; }
+
+.super-ops-FormLayout__HelpText_8qj1a { color: var(--p-text-subdued); padding: 0.5rem 1.25rem 0; }
+
+.super-ops-FormLayout__Item_yiyol { flex: 1 1 13.75rem; margin-top: 1rem; margin-left: 1.25rem; max-width: calc(100% - 1.25rem); }
+
+.super-ops-FormLayout--grouped_17srt .super-ops-FormLayout__Item_yiyol { min-width: 13.75rem; }
+
+.super-ops-FormLayout--condensed_b60cb .super-ops-FormLayout__Item_yiyol { flex-basis: 6.875rem; min-width: 6.875rem; }

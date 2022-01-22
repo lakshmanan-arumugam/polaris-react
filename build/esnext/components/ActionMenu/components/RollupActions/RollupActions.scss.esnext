@@ -1,0 +1,7 @@
+import './RollupActions.css';
+
+var styles = {
+  "RollupActivator": "super-ops-ActionMenu-RollupActions__RollupActivator_88nso"
+};
+
+export { styles as default };

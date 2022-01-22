@@ -1,0 +1,65 @@
+.super-ops-Filters_upqyz { position: relative; }
+
+.super-ops-Filters__FiltersContainer_qz0bo { position: relative; height: 100%; width: 100%; display: flex; flex-direction: column; }
+
+.super-ops-Filters__FiltersContainerHeader_c0kst { top: 0; width: 100%; padding: 1rem 1.25rem; border-bottom: 0.0625rem solid var(--p-divider); height: 3.5rem; box-sizing: border-box; display: flex; align-items: center; justify-content: space-between; }
+
+.super-ops-Filters__FiltersDesktopContainerContent_1vjuq { width: 100%; height: calc(100% - 7.875rem); padding: 0.5rem; }
+
+.super-ops-Filters__FiltersMobileContainerContent_1y6d9 { width: 100%; height: calc(100% - 3.5rem); padding: 0.5rem; }
+
+.super-ops-Filters__FiltersContainerFooter_1qv29 { position: absolute; bottom: 0; width: 100%; padding: 0.875rem 1.25rem; border-top: 0.0625rem solid var(--p-divider); height: 4.375rem; box-sizing: border-box; display: flex; align-items: center; justify-content: space-between; }
+
+.super-ops-Filters__FiltersMobileContainerFooter_1qpeg { width: 100%; padding: 0.875rem 1rem; height: 4.375rem; box-sizing: border-box; display: flex; align-items: center; justify-content: space-between; }
+
+.super-ops-Filters__EmptyFooterState_17wyq { border-top: 0.0625rem solid var(--p-divider); padding-top: 0.875rem; width: 100%; display: flex; justify-content: center; }
+
+.super-ops-Filters__FilterTriggerContainer_w27xp { position: relative; }
+
+.super-ops-Filters__FilterTrigger_60gd4 { width: 100%; margin: 0; padding: 0.875rem 1.25rem; color: var(--p-text); border-radius: var(--p-border-radius-base); background: none; border: none; outline: none; position: relative; }
+
+.super-ops-Filters__FilterTrigger_60gd4::after { content: ''; position: absolute; z-index: 1; top: -0.0625rem; right: -0.0625rem; bottom: -0.0625rem; left: -0.0625rem; display: block; pointer-events: none; box-shadow: 0 0 0 -0.0625rem var(--p-focused); transition: box-shadow 100ms var(--p-ease); border-radius: calc(var(--p-border-radius-base) + 0.0625rem); }
+
+.super-ops-Filters__FilterTrigger_60gd4:focus { box-shadow: none; }
+
+.super-ops-Filters__FilterTrigger_60gd4:hover { cursor: pointer; background-color: var(--p-surface-hovered); outline: 0.0625rem solid transparent; }
+
+.super-ops-Filters__FilterTrigger_60gd4:focus:not(:active)::after { box-shadow: 0 0 0 0.125rem var(--p-focused); outline: 0.0625rem solid transparent; }
+
+.super-ops-Filters__FilterTriggerTitle_lbjb0 { font-size: 0.9375rem; font-weight: 600; }
+
+.super-ops-Filters__AppliedFilterBadgeContainer_63v3b { padding-top: 0.25rem; display: flex; }
+
+.super-ops-Filters--open_yj2jb .super-ops-Filters__AppliedFilterBadgeContainer_63v3b { display: none; }
+
+.super-ops-Filters__FilterTriggerLabelContainer_gnr9n { display: flex; align-items: center; justify-content: space-between; }
+
+.super-ops-Filters--open_yj2jb::before, .super-ops-Filters--open_yj2jb::after { content: ''; position: relative; left: 1rem; width: calc(100% - 2rem); height: 0.0625rem; background-color: var(--p-surface-subdued); display: block; }
+
+.super-ops-Filters--open_yj2jb::before { top: 0; }
+
+.super-ops-Filters--open_yj2jb::after { bottom: 0; }
+
+.super-ops-Filters--open_yj2jb.super-ops-Filters--first_30jv6::after { content: ''; bottom: 0; position: relative; left: 1rem; width: calc(100% - 2rem); height: 0.0625rem; background-color: var(--p-surface-subdued); display: block; }
+
+.super-ops-Filters--open_yj2jb.super-ops-Filters--first_30jv6::before { display: none; }
+
+.super-ops-Filters--open_yj2jb ~ .super-ops-Filters--open_yj2jb::before { display: none; }
+
+.super-ops-Filters--open_yj2jb.super-ops-Filters--last_yj3nf::before { content: ''; top: 0; position: relative; left: 1rem; width: calc(100% - 2rem); height: 0.0625rem; background-color: var(--p-surface-subdued); display: block; }
+
+.super-ops-Filters--open_yj2jb.super-ops-Filters--last_yj3nf::after { display: none; }
+
+.super-ops-Filters--open_yj2jb + .super-ops-Filters--last_yj3nf::before { display: none; }
+
+.super-ops-Filters__FilterNodeContainer_18d1s { padding: 0.5rem 1.25rem 1.25rem 1.25rem; }
+
+.super-ops-Filters__SearchIcon_158og { fill: currentColor; }
+
+.super-ops-Filters__Backdrop_1x2i2 { position: fixed; z-index: 518; top: 0; right: 0; bottom: 0; left: 0; display: block; opacity: 0; }
+
+.super-ops-Filters__HelpText_8qj1a { margin-top: 0.625rem; }
+
+.super-ops-Filters__TagsContainer_sze4w { display: flex; padding-top: 0.5rem; flex-wrap: wrap; }
+
+.super-ops-Filters__TagsContainer_sze4w > * { margin-right: 0.5rem; margin-bottom: 0.5rem; }

@@ -1,0 +1,10 @@
+.super-ops-ActionMenu-SecondaryAction_1dl4i a, .super-ops-ActionMenu-SecondaryAction_1dl4i button { position: relative; background: transparent !important; box-shadow: none !important; border-radius: var(--p-border-radius-base) !important; padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.super-ops-ActionMenu-SecondaryAction_1dl4i a::after, .super-ops-ActionMenu-SecondaryAction_1dl4i button::after { content: ''; position: absolute; z-index: 1; top: -0.125rem; right: -0.125rem; bottom: -0.125rem; left: -0.125rem; display: block; pointer-events: none; box-shadow: 0 0 0 -0.125rem var(--p-focused); transition: box-shadow 100ms var(--p-ease); border-radius: calc(var(--p-border-radius-base) + 0.0625rem); }
+
+.super-ops-ActionMenu-SecondaryAction_1dl4i a:hover, .super-ops-ActionMenu-SecondaryAction_1dl4i button:hover { background: var(--p-background-hovered) !important; }
+
+.super-ops-ActionMenu-SecondaryAction_1dl4i a:active, .super-ops-ActionMenu-SecondaryAction_1dl4i button:active { background: var(--p-background-pressed) !important; }
+
+@media (min-width: 48em) { .super-ops-ActionMenu-SecondaryAction_1dl4i a, .super-ops-ActionMenu-SecondaryAction_1dl4i button { border: none !important; position: relative; }
+  .super-ops-ActionMenu-SecondaryAction_1dl4i a::after, .super-ops-ActionMenu-SecondaryAction_1dl4i button::after { content: ''; position: absolute; z-index: 1; top: -0.0625rem; right: -0.0625rem; bottom: -0.0625rem; left: -0.0625rem; display: block; pointer-events: none; box-shadow: 0 0 0 -0.0625rem var(--p-focused); transition: box-shadow 100ms var(--p-ease); border-radius: calc(var(--p-border-radius-base) + 0.0625rem); } }

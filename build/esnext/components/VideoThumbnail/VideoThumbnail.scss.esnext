@@ -1,0 +1,16 @@
+import './VideoThumbnail.css';
+
+var styles = {
+  "Thumbnail": "super-ops-VideoThumbnail__Thumbnail_15hj1",
+  "WithPlayer": "super-ops-VideoThumbnail__WithPlayer_14q5a",
+  "PlayButton": "super-ops-VideoThumbnail__PlayButton_1336l",
+  "PlayIcon": "super-ops-VideoThumbnail__PlayIcon_1moni",
+  "Timestamp": "super-ops-VideoThumbnail__Timestamp_1tkqb",
+  "withProgress": "super-ops-VideoThumbnail--withProgress_1t20d",
+  "Progress": "super-ops-VideoThumbnail__Progress_ixe53",
+  "Indicator": "super-ops-VideoThumbnail__Indicator_dw7mr",
+  "ProgressBar": "super-ops-VideoThumbnail__ProgressBar_17609",
+  "Label": "super-ops-VideoThumbnail__Label_2vd36"
+};
+
+export { styles as default };

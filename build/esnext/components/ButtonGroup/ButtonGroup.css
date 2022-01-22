@@ -1,0 +1,29 @@
+.super-ops-ButtonGroup_yy85z { display: flex; flex-wrap: wrap; align-items: center; margin-top: -0.5rem; margin-left: -0.5rem; }
+
+.super-ops-ButtonGroup__Item_yiyol { margin-top: 0.5rem; margin-left: 0.5rem; }
+
+.super-ops-ButtonGroup__Item--plain_1lavi:not(:first-child) { margin-left: 1rem; }
+
+.super-ops-ButtonGroup__Item--plain_1lavi:not(:last-child) { margin-right: 0.5rem; }
+
+.super-ops-ButtonGroup--segmented_150jh { display: flex; flex-wrap: nowrap; margin-top: 0; margin-left: 0; }
+
+.super-ops-ButtonGroup--segmented_150jh .super-ops-ButtonGroup__Item_yiyol { position: relative; z-index: 10; margin-top: 0; margin-left: 0; }
+
+.super-ops-ButtonGroup--segmented_150jh .super-ops-ButtonGroup__Item_yiyol:not(:first-child) { margin-left: -0.0625rem; }
+
+.super-ops-ButtonGroup--segmented_150jh .super-ops-ButtonGroup__Item--focused_1iwi4 { z-index: 20; }
+
+.super-ops-ButtonGroup--fullWidth_zyvh4 .super-ops-ButtonGroup__Item_yiyol { flex: 1 1 auto; }
+
+.super-ops-ButtonGroup--extraTight_1xh3x { margin-top: -0.25rem; margin-left: -0.25rem; }
+
+.super-ops-ButtonGroup--extraTight_1xh3x .super-ops-ButtonGroup__Item_yiyol { margin-top: 0.25rem; margin-left: 0.25rem; }
+
+.super-ops-ButtonGroup--tight_312wf { margin-top: -0.5rem; margin-left: -0.5rem; }
+
+.super-ops-ButtonGroup--tight_312wf .super-ops-ButtonGroup__Item_yiyol { margin-top: 0.5rem; margin-left: 0.5rem; }
+
+.super-ops-ButtonGroup--loose_2qq07 { margin-top: -1.25rem; margin-left: -1.25rem; }
+
+.super-ops-ButtonGroup--loose_2qq07 .super-ops-ButtonGroup__Item_yiyol { margin-top: 1.25rem; margin-left: 1.25rem; }
